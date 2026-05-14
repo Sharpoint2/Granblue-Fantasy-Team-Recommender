@@ -1,0 +1,7012 @@
+{
+  "アビー": [
+    {
+      "name": "Abby",
+      "jpname": "アビー",
+      "id": "3040284000",
+      "element": "Fire"
+    },
+    {
+      "name": "Abby",
+      "jpname": "アビー",
+      "id": "3030011000",
+      "element": "Fire"
+    }
+  ],
+  "アダム": [
+    {
+      "name": "Adam",
+      "jpname": "アダム",
+      "id": "3040432000",
+      "element": "Earth"
+    }
+  ],
+  "アギエルバ": [
+    {
+      "name": "Agielba",
+      "jpname": "アギエルバ",
+      "id": "3040017000",
+      "element": "Fire"
+    }
+  ],
+  "アグロヴァル": [
+    {
+      "name": "Aglovale",
+      "jpname": "アグロヴァル",
+      "id": "3040192000",
+      "element": "Water"
+    },
+    {
+      "name": "Aglovale",
+      "jpname": "アグロヴァル",
+      "id": "3040322000",
+      "element": "Light"
+    },
+    {
+      "name": "Aglovale",
+      "jpname": "アグロヴァル",
+      "id": "3040545000",
+      "element": "Fire"
+    }
+  ],
+  "覇道を征く主従 アグロヴァル＆トー": [
+    {
+      "name": "Aglovale and Tor",
+      "jpname": "覇道を征く主従 アグロヴァル＆トー",
+      "id": "3040426000",
+      "element": "Earth"
+    }
+  ],
+  "アラナン": [
+    {
+      "name": "Alanaan",
+      "jpname": "アラナン",
+      "id": "3040167000",
+      "element": "Fire"
+    }
+  ],
+  "アルベール": [
+    {
+      "name": "Albert",
+      "jpname": "アルベール",
+      "id": "3040045000",
+      "element": "Light"
+    },
+    {
+      "name": "Albert",
+      "jpname": "アルベール",
+      "id": "3040290000",
+      "element": "Wind"
+    },
+    {
+      "name": "Albert",
+      "jpname": "アルベール",
+      "id": "3040334000",
+      "element": "Dark"
+    },
+    {
+      "name": "Albert",
+      "jpname": "アルベール",
+      "id": "3030177000",
+      "element": "Light"
+    }
+  ],
+  "アレーティア": [
+    {
+      "name": "Aletheia",
+      "jpname": "アレーティア",
+      "id": "3040002000",
+      "element": "Earth"
+    },
+    {
+      "name": "Aletheia",
+      "jpname": "アレーティア",
+      "id": "3040567000",
+      "element": "Dark"
+    }
+  ],
+  "ブローディア": [
+    {
+      "name": "Alexiel",
+      "jpname": "ブローディア",
+      "id": "3040158000",
+      "element": "Earth"
+    },
+    {
+      "name": "Alexiel",
+      "jpname": "ブローディア",
+      "id": "3040232000",
+      "element": "Earth"
+    }
+  ],
+  "アリーザ": [
+    {
+      "name": "Aliza",
+      "jpname": "アリーザ",
+      "id": "3040083000",
+      "element": "Fire"
+    },
+    {
+      "name": "Aliza",
+      "jpname": "アリーザ",
+      "id": "3040474000",
+      "element": "Wind"
+    },
+    {
+      "name": "Aliza",
+      "jpname": "アリーザ",
+      "id": "3030015000",
+      "element": "Fire"
+    },
+    {
+      "name": "Aliza",
+      "jpname": "アリーザ",
+      "id": "3030242000",
+      "element": "water"
+    }
+  ],
+  "アリア": [
+    {
+      "name": "Alliah",
+      "jpname": "アリア",
+      "id": "3040431000",
+      "element": "Wind"
+    },
+    {
+      "name": "Alliah",
+      "jpname": "アリア",
+      "id": "3040648000",
+      "element": "Water"
+    }
+  ],
+  "アルタイル": [
+    {
+      "name": "Altair",
+      "jpname": "アルタイル",
+      "id": "3040001000",
+      "element": "Water"
+    },
+    {
+      "name": "Altair",
+      "jpname": "アルタイル",
+      "id": "3040373000",
+      "element": "Fire"
+    }
+  ],
+  "アマテラス": [
+    {
+      "name": "Amaterasu",
+      "jpname": "アマテラス",
+      "id": "3040634000",
+      "element": "Light"
+    }
+  ],
+  "エミリア": [
+    {
+      "name": "Amelia",
+      "jpname": "エミリア",
+      "id": "3040444000",
+      "element": "Earth"
+    }
+  ],
+  "アミ": [
+    {
+      "name": "Ami",
+      "jpname": "アミ",
+      "id": "3040528000",
+      "element": "Wind"
+    }
+  ],
+  "アーミラ": [
+    {
+      "name": "Amira",
+      "jpname": "アーミラ",
+      "id": "3040051000",
+      "element": "Light"
+    },
+    {
+      "name": "Amira",
+      "jpname": "アーミラ",
+      "id": "3040287000",
+      "element": "Dark"
+    },
+    {
+      "name": "Amira",
+      "jpname": "アーミラ",
+      "id": "3030065000",
+      "element": "Light"
+    }
+  ],
+  "アンダーソン": [
+    {
+      "name": "Anderson",
+      "jpname": "アンダーソン",
+      "id": "3040422000",
+      "element": "Fire"
+    }
+  ],
+  "アンチラ": [
+    {
+      "name": "Andira",
+      "jpname": "アンチラ",
+      "id": "3040071000",
+      "element": "Wind"
+    },
+    {
+      "name": "Andira",
+      "jpname": "アンチラ",
+      "id": "3040330000",
+      "element": "Water"
+    },
+    {
+      "name": "Andira",
+      "jpname": "アンチラ",
+      "id": "3030170000",
+      "element": "Wind"
+    }
+  ],
+  "アンジェ": [
+    {
+      "name": "Ange",
+      "jpname": "アンジェ",
+      "id": "3040642000",
+      "element": "Water"
+    },
+    {
+      "name": "Ange",
+      "jpname": "アンジェ",
+      "id": "3030012000",
+      "element": "Water"
+    },
+    {
+      "name": "Ange",
+      "jpname": "アンジェ",
+      "id": "3030042000",
+      "element": "Dark"
+    }
+  ],
+  "アニラ": [
+    {
+      "name": "Anila",
+      "jpname": "アニラ",
+      "id": "3040027000",
+      "element": "Fire"
+    },
+    {
+      "name": "Anila",
+      "jpname": "アニラ",
+      "id": "3040288000",
+      "element": "Wind"
+    },
+    {
+      "name": "Anila",
+      "jpname": "アニラ",
+      "id": "3040479000",
+      "element": "Water"
+    },
+    {
+      "name": "Anila",
+      "jpname": "アニラ",
+      "id": "3030110000",
+      "element": "Fire"
+    }
+  ],
+  "アンナ": [
+    {
+      "name": "Anna",
+      "jpname": "アンナ",
+      "id": "3040402000",
+      "element": "Fire"
+    },
+    {
+      "name": "Anna",
+      "jpname": "アンナ",
+      "id": "3030095000",
+      "element": "Fire"
+    },
+    {
+      "name": "Anna",
+      "jpname": "アンナ",
+      "id": "3020008000",
+      "element": "Fire"
+    },
+    {
+      "name": "Anna",
+      "jpname": "アンナ",
+      "id": "3020021000",
+      "element": "Fire"
+    }
+  ],
+  "アン": [
+    {
+      "name": "Anne",
+      "jpname": "アン",
+      "id": "3040132000",
+      "element": "Water"
+    },
+    {
+      "name": "Anne",
+      "jpname": "アン",
+      "id": "3040524000",
+      "element": "Light"
+    }
+  ],
+  "ウーノ": [
+    {
+      "name": "Anre",
+      "jpname": "ウーノ",
+      "id": "3040030000",
+      "element": "Water"
+    }
+  ],
+  "アンスリア": [
+    {
+      "name": "Anthuria",
+      "jpname": "アンスリア",
+      "id": "3040103000",
+      "element": "Fire"
+    },
+    {
+      "name": "Anthuria",
+      "jpname": "アンスリア",
+      "id": "3040228000",
+      "element": "Dark"
+    },
+    {
+      "name": "Anthuria",
+      "jpname": "アンスリア",
+      "id": "3040369000",
+      "element": "Earth"
+    },
+    {
+      "name": "Anthuria",
+      "jpname": "アンスリア",
+      "id": "3040647000",
+      "element": "Light"
+    }
+  ],
+  "アオイドス": [
+    {
+      "name": "Aoidos",
+      "jpname": "アオイドス",
+      "id": "3040076000",
+      "element": "Fire"
+    }
+  ],
+  "アポロニア": [
+    {
+      "name": "Apollonia",
+      "jpname": "アポロニア",
+      "id": "3040645000",
+      "element": "Earth"
+    }
+  ],
+  "津島善子＆国木田花丸＆黒澤ルビィ": [
+    {
+      "name": "Aqours First-Years",
+      "jpname": "津島善子＆国木田花丸＆黒澤ルビィ",
+      "id": "3040184000",
+      "element": "Earth"
+    }
+  ],
+  "桜内梨子＆高海千歌＆渡辺 曜": [
+    {
+      "name": "Aqours Second-Years",
+      "jpname": "桜内梨子＆高海千歌＆渡辺 曜",
+      "id": "3040183000",
+      "element": "Water"
+    }
+  ],
+  "松浦果南＆黒澤ダイヤ＆小原鞠莉": [
+    {
+      "name": "Aqours Third-Years",
+      "jpname": "松浦果南＆黒澤ダイヤ＆小原鞠莉",
+      "id": "3040185000",
+      "element": "Fire"
+    }
+  ],
+  "アンリエット": [
+    {
+      "name": "Arriet",
+      "jpname": "アンリエット",
+      "id": "3040058000",
+      "element": "Wind"
+    },
+    {
+      "name": "Arriet",
+      "jpname": "アンリエット",
+      "id": "3040638000",
+      "element": "Light"
+    }
+  ],
+  "アーサー": [
+    {
+      "name": "Arthur",
+      "jpname": "アーサー",
+      "id": "3040358000",
+      "element": "Light"
+    },
+    {
+      "name": "Arthur",
+      "jpname": "アーサー",
+      "id": "3030226000",
+      "element": "Wind"
+    }
+  ],
+  "アルルメイヤ": [
+    {
+      "name": "Arulumaya",
+      "jpname": "アルルメイヤ",
+      "id": "3040019000",
+      "element": "Earth"
+    },
+    {
+      "name": "Arulumaya",
+      "jpname": "アルルメイヤ",
+      "id": "3040104000",
+      "element": "Water"
+    },
+    {
+      "name": "Arulumaya",
+      "jpname": "アルルメイヤ",
+      "id": "3040367000",
+      "element": "Light"
+    },
+    {
+      "name": "Arulumaya",
+      "jpname": "アルルメイヤ",
+      "id": "3030249000",
+      "element": "Dark"
+    }
+  ],
+  "アスカ&2号機": [
+    {
+      "name": "Asuka & Unit 02",
+      "jpname": "アスカ&2号機",
+      "id": "3040624000",
+      "element": "Fire"
+    }
+  ],
+  "アテナ": [
+    {
+      "name": "Athena",
+      "jpname": "アテナ",
+      "id": "3040202000",
+      "element": "Fire"
+    }
+  ],
+  "アトゥム": [
+    {
+      "name": "Atum",
+      "jpname": "アトゥム",
+      "id": "3040601000",
+      "element": "Fire"
+    }
+  ],
+  "アイル": [
+    {
+      "name": "Ayer",
+      "jpname": "アイル",
+      "id": "3040084000",
+      "element": "Earth"
+    },
+    {
+      "name": "Ayer",
+      "jpname": "アイル",
+      "id": "3030199000",
+      "element": "Earth"
+    }
+  ],
+  "アザゼル": [
+    {
+      "name": "Azazel",
+      "jpname": "アザゼル",
+      "id": "3040137000",
+      "element": "Dark"
+    },
+    {
+      "name": "Azazel",
+      "jpname": "アザゼル",
+      "id": "3040300000",
+      "element": "Fire"
+    }
+  ],
+  "アズサ": [
+    {
+      "name": "Azusa",
+      "jpname": "アズサ",
+      "id": "3040359000",
+      "element": "Wind"
+    },
+    {
+      "name": "Azusa",
+      "jpname": "アズサ",
+      "id": "3040453000",
+      "element": "Dark"
+    }
+  ],
+  "バアル": [
+    {
+      "name": "Baal",
+      "jpname": "バアル",
+      "id": "3040215000",
+      "element": "Earth"
+    },
+    {
+      "name": "Baal",
+      "jpname": "バアル",
+      "id": "3040466000",
+      "element": "Fire"
+    }
+  ],
+  "バウタオーダ": [
+    {
+      "name": "Baotorda",
+      "jpname": "バウタオーダ",
+      "id": "3040124000",
+      "element": "Light"
+    },
+    {
+      "name": "Baotorda",
+      "jpname": "バウタオーダ",
+      "id": "3030053000",
+      "element": "Light"
+    }
+  ],
+  "バロワ＆サーヤ": [
+    {
+      "name": "Barawa and Sarya",
+      "jpname": "バロワ＆サーヤ",
+      "id": "3040493000",
+      "element": "Fire"
+    }
+  ],
+  "バサラ": [
+    {
+      "name": "Basara",
+      "jpname": "バサラ",
+      "id": "3040582000",
+      "element": "Light"
+    }
+  ],
+  "ベアトリクス": [
+    {
+      "name": "Beatrix",
+      "jpname": "ベアトリクス",
+      "id": "3040070000",
+      "element": "Dark"
+    },
+    {
+      "name": "Beatrix",
+      "jpname": "ベアトリクス",
+      "id": "3040110000",
+      "element": "Fire"
+    },
+    {
+      "name": "Beatrix",
+      "jpname": "ベアトリクス",
+      "id": "3040328000",
+      "element": "Earth"
+    },
+    {
+      "name": "Beatrix",
+      "jpname": "ベアトリクス",
+      "id": "3030163000",
+      "element": "Fire"
+    },
+    {
+      "name": "Beatrix",
+      "jpname": "ベアトリクス",
+      "id": "3030261000",
+      "element": "Earth"
+    }
+  ],
+  "ベンジャミン": [
+    {
+      "name": "Benjamin",
+      "jpname": "ベンジャミン",
+      "id": "3040366000",
+      "element": "Earth"
+    }
+  ],
+  "ベンヌ": [
+    {
+      "name": "Bennu",
+      "jpname": "ベンヌ",
+      "id": "3040627000",
+      "element": "Earth"
+    }
+  ],
+  "ベルソー": [
+    {
+      "name": "Berceau",
+      "jpname": "ベルソー",
+      "id": "3040612000",
+      "element": "Earth"
+    }
+  ],
+  "バイシュラ": [
+    {
+      "name": "Bhaisa",
+      "jpname": "バイシュラ",
+      "id": "3040630000",
+      "element": "Earth"
+    }
+  ],
+  "黒騎士": [
+    {
+      "name": "Black Knight",
+      "jpname": "黒騎士",
+      "id": "3040082000",
+      "element": "Dark"
+    }
+  ],
+  "エルステの要 黒騎士&オルキス": [
+    {
+      "name": "Black Knight and Orchis",
+      "jpname": "エルステの要 黒騎士&オルキス",
+      "id": "3040270000",
+      "element": "Dark"
+    }
+  ],
+  "ボボボーボ・ボーボボ": [
+    {
+      "name": "Bobobo-bo Bo-bobo",
+      "jpname": "ボボボーボ・ボーボボ",
+      "id": "3040331000",
+      "element": "Light"
+    }
+  ],
+  "ボーマン": [
+    {
+      "name": "Bowman",
+      "jpname": "ボーマン",
+      "id": "3040424000",
+      "element": "Dark"
+    }
+  ],
+  "シーザー": [
+    {
+      "name": "Caesar",
+      "jpname": "シーザー",
+      "id": "3040632000",
+      "element": "Light"
+    }
+  ],
+  "カリオストロ": [
+    {
+      "name": "Cagliostro",
+      "jpname": "カリオストロ",
+      "id": "3040009000",
+      "element": "Earth"
+    },
+    {
+      "name": "Cagliostro",
+      "jpname": "カリオストロ",
+      "id": "3040062000",
+      "element": "Dark"
+    },
+    {
+      "name": "Cagliostro",
+      "jpname": "カリオストロ",
+      "id": "3040120000",
+      "element": "Dark"
+    },
+    {
+      "name": "Cagliostro",
+      "jpname": "カリオストロ",
+      "id": "3040225000",
+      "element": "Water"
+    },
+    {
+      "name": "Cagliostro",
+      "jpname": "カリオストロ",
+      "id": "3040320000",
+      "element": "Light"
+    },
+    {
+      "name": "Cagliostro",
+      "jpname": "カリオストロ",
+      "id": "3030189000",
+      "element": "Dark"
+    }
+  ],
+  "可憐なる師弟 カリオストロ＆クラリス": [
+    {
+      "name": "Cagliostro and Clarisse",
+      "jpname": "可憐なる師弟 カリオストロ＆クラリス",
+      "id": "3040593000",
+      "element": "Wind"
+    }
+  ],
+  "カイム": [
+    {
+      "name": "Caim",
+      "jpname": "カイム",
+      "id": "3040164000",
+      "element": "Earth"
+    }
+  ],
+  "カイン": [
+    {
+      "name": "Cain",
+      "jpname": "カイン",
+      "id": "3040171000",
+      "element": "Earth"
+    },
+    {
+      "name": "Cain",
+      "jpname": "カイン",
+      "id": "3040436000",
+      "element": "Fire"
+    },
+    {
+      "name": "Cain",
+      "jpname": "カイン",
+      "id": "3030184000",
+      "element": "Earth"
+    }
+  ],
+  "カンターテ": [
+    {
+      "name": "Cantate",
+      "jpname": "カンターテ",
+      "id": "3040461000",
+      "element": "Wind"
+    }
+  ],
+  "カルメリーナ": [
+    {
+      "name": "Carmelina",
+      "jpname": "カルメリーナ",
+      "id": "3040042000",
+      "element": "Wind"
+    },
+    {
+      "name": "Carmelina",
+      "jpname": "カルメリーナ",
+      "id": "3030240000",
+      "element": "Earth"
+    }
+  ],
+  "カロ": [
+    {
+      "name": "Caro",
+      "jpname": "カロ",
+      "id": "3040460000",
+      "element": "Wind"
+    }
+  ],
+  "カシウス": [
+    {
+      "name": "Cassius",
+      "jpname": "カシウス",
+      "id": "3040326000",
+      "element": "Dark"
+    },
+    {
+      "name": "Cassius",
+      "jpname": "カシウス",
+      "id": "3040384000",
+      "element": "Water"
+    },
+    {
+      "name": "Cassius",
+      "jpname": "カシウス",
+      "id": "3040604000",
+      "element": "Wind"
+    },
+    {
+      "name": "Cassius",
+      "jpname": "カシウス",
+      "id": "3030262000",
+      "element": "Dark"
+    },
+    {
+      "name": "Cassius",
+      "jpname": "カシウス",
+      "id": "3030273000",
+      "element": "Fire"
+    }
+  ],
+  "キャサリン": [
+    {
+      "name": "Catherine",
+      "jpname": "キャサリン",
+      "id": "3040074000",
+      "element": "Earth"
+    },
+    {
+      "name": "Catherine",
+      "jpname": "キャサリン",
+      "id": "3040484000",
+      "element": "Wind"
+    },
+    {
+      "name": "Catherine",
+      "jpname": "キャサリン",
+      "id": "3030264000",
+      "element": "Earth"
+    }
+  ],
+  "シャトラ": [
+    {
+      "name": "Catura",
+      "jpname": "シャトラ",
+      "id": "3040313000",
+      "element": "Wind"
+    },
+    {
+      "name": "Catura",
+      "jpname": "シャトラ",
+      "id": "3040437000",
+      "element": "Water"
+    },
+    {
+      "name": "Catura",
+      "jpname": "シャトラ",
+      "id": "3040610000",
+      "element": "Dark"
+    },
+    {
+      "name": "Catura",
+      "jpname": "シャトラ",
+      "id": "3020074000",
+      "element": "Earth"
+    }
+  ],
+  "サンドリヨン": [
+    {
+      "name": "Cendrillon",
+      "jpname": "サンドリヨン",
+      "id": "3040445000",
+      "element": "Dark"
+    }
+  ],
+  "ケルベロス": [
+    {
+      "name": "Cerberus",
+      "jpname": "ケルベロス",
+      "id": "3040016000",
+      "element": "Dark"
+    }
+  ],
+  "シャリオス17世": [
+    {
+      "name": "Charioce XVII",
+      "jpname": "シャリオス17世",
+      "id": "3040144000",
+      "element": "Fire"
+    }
+  ],
+  "シャルロッテ": [
+    {
+      "name": "Charlotta",
+      "jpname": "シャルロッテ",
+      "id": "3040010000",
+      "element": "Water"
+    },
+    {
+      "name": "Charlotta",
+      "jpname": "シャルロッテ",
+      "id": "3040020000",
+      "element": "Light"
+    },
+    {
+      "name": "Charlotta",
+      "jpname": "シャルロッテ",
+      "id": "3040194000",
+      "element": "Light"
+    },
+    {
+      "name": "Charlotta",
+      "jpname": "シャルロッテ",
+      "id": "3040438000",
+      "element": "Wind"
+    },
+    {
+      "name": "Charlotta",
+      "jpname": "シャルロッテ",
+      "id": "3030192000",
+      "element": "Wind"
+    },
+    {
+      "name": "Charlotta",
+      "jpname": "シャルロッテ",
+      "id": "3030198000",
+      "element": "Water"
+    }
+  ],
+  "シャノワール": [
+    {
+      "name": "Chat Noir",
+      "jpname": "シャノワール",
+      "id": "3040093000",
+      "element": "Water"
+    }
+  ],
+  "シェリーネ": [
+    {
+      "name": "Cherine",
+      "jpname": "シェリーネ",
+      "id": "3040590000",
+      "element": "Light"
+    }
+  ],
+  "チチリ": [
+    {
+      "name": "Chichiri",
+      "jpname": "チチリ",
+      "id": "3040525000",
+      "element": "Fire"
+    },
+    {
+      "name": "Chichiri",
+      "jpname": "チチリ",
+      "id": "3040621000",
+      "element": "Water"
+    }
+  ],
+  "クロエ": [
+    {
+      "name": "Chloe",
+      "jpname": "クロエ",
+      "id": "3040530000",
+      "element": "Dark"
+    },
+    {
+      "name": "Chloe",
+      "jpname": "クロエ",
+      "id": "3030202000",
+      "element": "Wind"
+    },
+    {
+      "name": "Chloe",
+      "jpname": "クロエ",
+      "id": "3020059000",
+      "element": "Wind"
+    }
+  ],
+  "クリスティーナ": [
+    {
+      "name": "Christina",
+      "jpname": "クリスティーナ",
+      "id": "3040018000",
+      "element": "Wind"
+    }
+  ],
+  "クロロ": [
+    {
+      "name": "Chrollo",
+      "jpname": "クロロ",
+      "id": "3040608000",
+      "element": "Dark"
+    }
+  ],
+  "シンダラ": [
+    {
+      "name": "Cidala",
+      "jpname": "シンダラ",
+      "id": "3040377000",
+      "element": "Earth"
+    },
+    {
+      "name": "Cidala",
+      "jpname": "シンダラ",
+      "id": "3040512000",
+      "element": "Dark"
+    }
+  ],
+  "シナモロール＆ポムポムプリン": [
+    {
+      "name": "Cinnamoroll and Pompompurin",
+      "jpname": "シナモロール＆ポムポムプリン",
+      "id": "3040457000",
+      "element": "Wind"
+    }
+  ],
+  "クラリス": [
+    {
+      "name": "Clarisse",
+      "jpname": "クラリス",
+      "id": "3040046000",
+      "element": "Fire"
+    },
+    {
+      "name": "Clarisse",
+      "jpname": "クラリス",
+      "id": "3040067000",
+      "element": "Earth"
+    },
+    {
+      "name": "Clarisse",
+      "jpname": "クラリス",
+      "id": "3040121000",
+      "element": "Light"
+    },
+    {
+      "name": "Clarisse",
+      "jpname": "クラリス",
+      "id": "3040206000",
+      "element": "Dark"
+    },
+    {
+      "name": "Clarisse",
+      "jpname": "クラリス",
+      "id": "3040413000",
+      "element": "Water"
+    }
+  ],
+  "コロッサス": [
+    {
+      "name": "Colossus",
+      "jpname": "コロッサス",
+      "id": "3040235000",
+      "element": "Fire"
+    }
+  ],
+  "江戸川コナン": [
+    {
+      "name": "Conan Edogawa",
+      "jpname": "江戸川コナン",
+      "id": "3040157000",
+      "element": "Light"
+    }
+  ],
+  "コンスタンツィア": [
+    {
+      "name": "Constance",
+      "jpname": "コンスタンツィア",
+      "id": "3040636000",
+      "element": "Dark"
+    }
+  ],
+  "コスモス": [
+    {
+      "name": "Cosmos",
+      "jpname": "コスモス",
+      "id": "3040467000",
+      "element": "Light"
+    }
+  ],
+  "ククル": [
+    {
+      "name": "Cucouroux",
+      "jpname": "ククル",
+      "id": "3040159000",
+      "element": "Water"
+    },
+    {
+      "name": "Cucouroux",
+      "jpname": "ククル",
+      "id": "3040361000",
+      "element": "Earth"
+    },
+    {
+      "name": "Cucouroux",
+      "jpname": "ククル",
+      "id": "3040539000",
+      "element": "Light"
+    },
+    {
+      "name": "Cucouroux",
+      "jpname": "ククル",
+      "id": "3030155000",
+      "element": "Fire"
+    }
+  ],
+  "クピタン": [
+    {
+      "name": "Cupitan",
+      "jpname": "クピタン",
+      "id": "3040379000",
+      "element": "Water"
+    },
+    {
+      "name": "Cupitan",
+      "jpname": "クピタン",
+      "id": "3040468000",
+      "element": "Dark"
+    }
+  ],
+  "プリキュア キュアブラック＆キュアホワイト": [
+    {
+      "name": "Cure Black and Cure White",
+      "jpname": "プリキュア キュアブラック＆キュアホワイト",
+      "id": "3040188000",
+      "element": "Light"
+    }
+  ],
+  "ダーント": [
+    {
+      "name": "Dante",
+      "jpname": "ダーント",
+      "id": "3040489000",
+      "element": "Earth"
+    },
+    {
+      "name": "Dante",
+      "jpname": "ダーント",
+      "id": "3030156000",
+      "element": "Fire"
+    },
+    {
+      "name": "Dante",
+      "jpname": "ダーント",
+      "id": "3020044000",
+      "element": "Fire"
+    }
+  ],
+  "ダーント&フライハイト": [
+    {
+      "name": "Dante and Freiheit",
+      "jpname": "ダーント&フライハイト",
+      "id": "3040205000",
+      "element": "Earth"
+    }
+  ],
+  "ダヌア": [
+    {
+      "name": "Danua",
+      "jpname": "ダヌア",
+      "id": "3040055000",
+      "element": "Dark"
+    },
+    {
+      "name": "Danua",
+      "jpname": "ダヌア",
+      "id": "3040135000",
+      "element": "Fire"
+    },
+    {
+      "name": "Danua",
+      "jpname": "ダヌア",
+      "id": "3040256000",
+      "element": "Light"
+    },
+    {
+      "name": "Danua",
+      "jpname": "ダヌア",
+      "id": "3040616000",
+      "element": "Dark"
+    },
+    {
+      "name": "Danua",
+      "jpname": "ダヌア",
+      "id": "3030017000",
+      "element": "Dark"
+    }
+  ],
+  "ダリダラ": [
+    {
+      "name": "Darydara",
+      "jpname": "ダリダラ",
+      "id": "3040631000",
+      "element": "Water"
+    }
+  ],
+  "レ・フィーエ": [
+    {
+      "name": "De La Fille",
+      "jpname": "レ・フィーエ",
+      "id": "3040004000",
+      "element": "Light"
+    },
+    {
+      "name": "De La Fille",
+      "jpname": "レ・フィーエ",
+      "id": "3040014000",
+      "element": "Light"
+    },
+    {
+      "name": "De La Fille",
+      "jpname": "レ・フィーエ",
+      "id": "3040113000",
+      "element": "Earth"
+    },
+    {
+      "name": "De La Fille",
+      "jpname": "レ・フィーエ",
+      "id": "3040520000",
+      "element": "Dark"
+    }
+  ],
+  "デリフォード": [
+    {
+      "name": "Deliford",
+      "jpname": "デリフォード",
+      "id": "3040507000",
+      "element": "Water"
+    },
+    {
+      "name": "Deliford",
+      "jpname": "デリフォード",
+      "id": "3030188000",
+      "element": "Dark"
+    },
+    {
+      "name": "Deliford",
+      "jpname": "デリフォード",
+      "id": "3020005000",
+      "element": "Water"
+    }
+  ],
+  "ディアブロ": [
+    {
+      "name": "Diablo",
+      "jpname": "ディアブロ",
+      "id": "3040561000",
+      "element": "Dark"
+    }
+  ],
+  "ディアンサ": [
+    {
+      "name": "Diantha",
+      "jpname": "ディアンサ",
+      "id": "3040129000",
+      "element": "Water"
+    },
+    {
+      "name": "Diantha",
+      "jpname": "ディアンサ",
+      "id": "3040296000",
+      "element": "Earth"
+    },
+    {
+      "name": "Diantha",
+      "jpname": "ディアンサ",
+      "id": "3030150000",
+      "element": "Water"
+    }
+  ],
+  "ドラえもん": [
+    {
+      "name": "Doraemon",
+      "jpname": "ドラえもん",
+      "id": "3040370000",
+      "element": "Water"
+    }
+  ],
+  "サーヴァンツ ドロシー＆クラウディア": [
+    {
+      "name": "Dorothy and Claudia",
+      "jpname": "サーヴァンツ ドロシー＆クラウディア",
+      "id": "3040134000",
+      "element": "Light"
+    },
+    {
+      "name": "Dorothy and Claudia",
+      "jpname": "サーヴァンツ ドロシー＆クラウディア",
+      "id": "3040475000",
+      "element": "Fire"
+    }
+  ],
+  "ドランク": [
+    {
+      "name": "Drang",
+      "jpname": "ドランク",
+      "id": "3040119000",
+      "element": "Water"
+    },
+    {
+      "name": "Drang",
+      "jpname": "ドランク",
+      "id": "3040269000",
+      "element": "Fire"
+    }
+  ],
+  "ドロッセル": [
+    {
+      "name": "Drusilla",
+      "jpname": "ドロッセル",
+      "id": "3040464000",
+      "element": "Light"
+    },
+    {
+      "name": "Drusilla",
+      "jpname": "ドロッセル",
+      "id": "3020063000",
+      "element": "Fire"
+    }
+  ],
+  "オクトー": [
+    {
+      "name": "Eahta",
+      "jpname": "オクトー",
+      "id": "3040037000",
+      "element": "Earth"
+    }
+  ],
+  "エキドナ": [
+    {
+      "name": "Echidna",
+      "jpname": "エキドナ",
+      "id": "3040649000",
+      "element": "Wind"
+    }
+  ],
+  "エイレア": [
+    {
+      "name": "Elea",
+      "jpname": "エイレア",
+      "id": "3040403000",
+      "element": "Wind"
+    }
+  ],
+  "エルモート": [
+    {
+      "name": "Elmott",
+      "jpname": "エルモート",
+      "id": "3040356000",
+      "element": "Fire"
+    },
+    {
+      "name": "Elmott",
+      "jpname": "エルモート",
+      "id": "3040521000",
+      "element": "Fire"
+    },
+    {
+      "name": "Elmott",
+      "jpname": "エルモート",
+      "id": "3030023000",
+      "element": "Fire"
+    },
+    {
+      "name": "Elmott",
+      "jpname": "エルモート",
+      "id": "3030083000",
+      "element": "Fire"
+    }
+  ],
+  "エニュオ": [
+    {
+      "name": "Enyo",
+      "jpname": "エニュオ",
+      "id": "3040365000",
+      "element": "Wind"
+    },
+    {
+      "name": "Enyo",
+      "jpname": "エニュオ",
+      "id": "3040470000",
+      "element": "Fire"
+    }
+  ],
+  "エリカ": [
+    {
+      "name": "Erika",
+      "jpname": "エリカ",
+      "id": "3040421000",
+      "element": "Water"
+    }
+  ],
+  "エリン": [
+    {
+      "name": "Erin",
+      "jpname": "エリン",
+      "id": "3040439000",
+      "element": "Water"
+    },
+    {
+      "name": "Erin",
+      "jpname": "エリン",
+      "id": "3030164000",
+      "element": "Water"
+    }
+  ],
+  "エスタリオラ": [
+    {
+      "name": "Estarriola",
+      "jpname": "エスタリオラ",
+      "id": "3040163000",
+      "element": "Wind"
+    }
+  ],
+  "オイゲン": [
+    {
+      "name": "Eugen",
+      "jpname": "オイゲン",
+      "id": "3040077000",
+      "element": "Earth"
+    },
+    {
+      "name": "Eugen",
+      "jpname": "オイゲン",
+      "id": "3030007000",
+      "element": "Earth"
+    },
+    {
+      "name": "Eugen",
+      "jpname": "オイゲン",
+      "id": "3030085000",
+      "element": "Earth"
+    }
+  ],
+  "エウロペ": [
+    {
+      "name": "Europa",
+      "jpname": "エウロペ",
+      "id": "3040190000",
+      "element": "Water"
+    },
+    {
+      "name": "Europa",
+      "jpname": "エウロペ",
+      "id": "3040226000",
+      "element": "Water"
+    },
+    {
+      "name": "Europa",
+      "jpname": "エウロペ",
+      "id": "3040434000",
+      "element": "Earth"
+    }
+  ],
+  "ユーステス": [
+    {
+      "name": "Eustace",
+      "jpname": "ユーステス",
+      "id": "3040069000",
+      "element": "Earth"
+    },
+    {
+      "name": "Eustace",
+      "jpname": "ユーステス",
+      "id": "3040099000",
+      "element": "Earth"
+    },
+    {
+      "name": "Eustace",
+      "jpname": "ユーステス",
+      "id": "3040198000",
+      "element": "Dark"
+    },
+    {
+      "name": "Eustace",
+      "jpname": "ユーステス",
+      "id": "3040411000",
+      "element": "Wind"
+    },
+    {
+      "name": "Eustace",
+      "jpname": "ユーステス",
+      "id": "3040646000",
+      "element": "Fire"
+    }
+  ],
+  "エヴァンジェリン・Ａ・Ｋ・マクダウェル": [
+    {
+      "name": "Evangeline A.K. McDowell",
+      "jpname": "エヴァンジェリン・Ａ・Ｋ・マクダウェル",
+      "id": "3040575000",
+      "element": "Dark"
+    }
+  ],
+  "イーウィヤ": [
+    {
+      "name": "Ewiyar",
+      "jpname": "イーウィヤ",
+      "id": "3040378000",
+      "element": "Wind"
+    },
+    {
+      "name": "Ewiyar",
+      "jpname": "イーウィヤ",
+      "id": "3040452000",
+      "element": "Wind"
+    }
+  ],
+  "同期組 ファラ＆ユーリ": [
+    {
+      "name": "Farrah and Juri",
+      "jpname": "同期組 ファラ＆ユーリ",
+      "id": "3040325000",
+      "element": "Light"
+    }
+  ],
+  "フェザー": [
+    {
+      "name": "Feather",
+      "jpname": "フェザー",
+      "id": "3040304000",
+      "element": "Light"
+    },
+    {
+      "name": "Feather",
+      "jpname": "フェザー",
+      "id": "3030078000",
+      "element": "Light"
+    },
+    {
+      "name": "Feather",
+      "jpname": "フェザー",
+      "id": "3030254000",
+      "element": "Dark"
+    },
+    {
+      "name": "Feather",
+      "jpname": "フェザー",
+      "id": "3020020000",
+      "element": "Light"
+    }
+  ],
+  "フェディエル": [
+    {
+      "name": "Fediel",
+      "jpname": "フェディエル",
+      "id": "3040376000",
+      "element": "Dark"
+    },
+    {
+      "name": "Fediel",
+      "jpname": "フェディエル",
+      "id": "3040472000",
+      "element": "Water"
+    }
+  ],
+  "フィーナ": [
+    {
+      "name": "Feena",
+      "jpname": "フィーナ",
+      "id": "3040061000",
+      "element": "Wind"
+    },
+    {
+      "name": "Feena",
+      "jpname": "フィーナ",
+      "id": "3040573000",
+      "element": "Light"
+    },
+    {
+      "name": "Feena",
+      "jpname": "フィーナ",
+      "id": "3030035000",
+      "element": "Wind"
+    },
+    {
+      "name": "Feena",
+      "jpname": "フィーナ",
+      "id": "3030228000",
+      "element": "Light"
+    }
+  ],
+  "フェルルカ": [
+    {
+      "name": "Felluca",
+      "jpname": "フェルルカ",
+      "id": "3040652000",
+      "element": "Earth"
+    }
+  ],
+  "フェニー": [
+    {
+      "name": "Fenie",
+      "jpname": "フェニー",
+      "id": "3040519000",
+      "element": "Fire"
+    }
+  ],
+  "カトル": [
+    {
+      "name": "Feower",
+      "jpname": "カトル",
+      "id": "3040033000",
+      "element": "Water"
+    },
+    {
+      "name": "Feower",
+      "jpname": "カトル",
+      "id": "3040565000",
+      "element": "Fire"
+    }
+  ],
+  "フェリ": [
+    {
+      "name": "Ferry",
+      "jpname": "フェリ",
+      "id": "3040073000",
+      "element": "Light"
+    },
+    {
+      "name": "Ferry",
+      "jpname": "フェリ",
+      "id": "3040209000",
+      "element": "Dark"
+    },
+    {
+      "name": "Ferry",
+      "jpname": "フェリ",
+      "id": "3030032000",
+      "element": "Light"
+    },
+    {
+      "name": "Ferry",
+      "jpname": "フェリ",
+      "id": "3030101000",
+      "element": "Light"
+    },
+    {
+      "name": "Ferry",
+      "jpname": "フェリ",
+      "id": "3030310000",
+      "element": "Fire"
+    }
+  ],
+  "フュンフ": [
+    {
+      "name": "Fif",
+      "jpname": "フュンフ",
+      "id": "3040034000",
+      "element": "Light"
+    }
+  ],
+  "フィルレイン": [
+    {
+      "name": "Filene",
+      "jpname": "フィルレイン",
+      "id": "3040314000",
+      "element": "Water"
+    }
+  ],
+  "フィオリト": [
+    {
+      "name": "Fiorito",
+      "jpname": "フィオリト",
+      "id": "3040305000",
+      "element": "Earth"
+    },
+    {
+      "name": "Fiorito",
+      "jpname": "フィオリト",
+      "id": "3040435000",
+      "element": "Dark"
+    }
+  ],
+  "フロレンス": [
+    {
+      "name": "Florence",
+      "jpname": "フロレンス",
+      "id": "3040299000",
+      "element": "Wind"
+    },
+    {
+      "name": "Florence",
+      "jpname": "フロレンス",
+      "id": "3040429000",
+      "element": "Light"
+    },
+    {
+      "name": "Florence",
+      "jpname": "フロレンス",
+      "id": "3040552000",
+      "element": "Dark"
+    }
+  ],
+  "フォルテ": [
+    {
+      "name": "Forte",
+      "jpname": "フォルテ",
+      "id": "3040086000",
+      "element": "Dark"
+    }
+  ],
+  "フラウ": [
+    {
+      "name": "Fraux",
+      "jpname": "フラウ",
+      "id": "3040161000",
+      "element": "Fire"
+    },
+    {
+      "name": "Fraux",
+      "jpname": "フラウ",
+      "id": "3040600000",
+      "element": "Earth"
+    }
+  ],
+  "フーちゃん": [
+    {
+      "name": "Freezie",
+      "jpname": "フーちゃん",
+      "id": "3040182000",
+      "element": "Dark"
+    }
+  ],
+  "フレイ": [
+    {
+      "name": "Freyr",
+      "jpname": "フレイ",
+      "id": "3040387000",
+      "element": "Wind"
+    }
+  ],
+  "フィルキス": [
+    {
+      "name": "Fylkis",
+      "jpname": "フィルキス",
+      "id": "3040651000",
+      "element": "Earth"
+    }
+  ],
+  "ガブリエル": [
+    {
+      "name": "Gabriel",
+      "jpname": "ガブリエル",
+      "id": "3040492000",
+      "element": "Water"
+    }
+  ],
+  "ガチャピン": [
+    {
+      "name": "Gachapin",
+      "jpname": "ガチャピン",
+      "id": "3040248000",
+      "element": "Wind"
+    }
+  ],
+  "ガレヲン": [
+    {
+      "name": "Galleon",
+      "jpname": "ガレヲン",
+      "id": "3040405000",
+      "element": "Earth"
+    },
+    {
+      "name": "Galleon",
+      "jpname": "ガレヲン",
+      "id": "3040544000",
+      "element": "Wind"
+    }
+  ],
+  "ガウェイン": [
+    {
+      "name": "Gawain",
+      "jpname": "ガウェイン",
+      "id": "3040000000",
+      "element": "Wind"
+    },
+    {
+      "name": "Gawain",
+      "jpname": "ガウェイン",
+      "id": "3040298000",
+      "element": "Light"
+    },
+    {
+      "name": "Gawain",
+      "jpname": "ガウェイン",
+      "id": "3040640000",
+      "element": "Water"
+    }
+  ],
+  "ガイゼンボーガ": [
+    {
+      "name": "Geisenborger",
+      "jpname": "ガイゼンボーガ",
+      "id": "3040162000",
+      "element": "Light"
+    }
+  ],
+  "ガンダゴウザ": [
+    {
+      "name": "Ghandagoza",
+      "jpname": "ガンダゴウザ",
+      "id": "3040052000",
+      "element": "Fire"
+    },
+    {
+      "name": "Ghandagoza",
+      "jpname": "ガンダゴウザ",
+      "id": "3030201000",
+      "element": "Fire"
+    }
+  ],
+  "ミニゴブ": [
+    {
+      "name": "Goblin Mage",
+      "jpname": "ミニゴブ",
+      "id": "3040570000",
+      "element": "Light"
+    },
+    {
+      "name": "Goblin Mage",
+      "jpname": "ミニゴブ",
+      "id": "3030100000",
+      "element": "Wind"
+    }
+  ],
+  "黄金の騎士": [
+    {
+      "name": "Golden Knight",
+      "jpname": "黄金の騎士",
+      "id": "3040297000",
+      "element": "Earth"
+    }
+  ],
+  "ゴン": [
+    {
+      "name": "Gon",
+      "jpname": "ゴン",
+      "id": "3040605000",
+      "element": "Earth"
+    }
+  ],
+  "グレア": [
+    {
+      "name": "Grea",
+      "jpname": "グレア",
+      "id": "3040130000",
+      "element": "Fire"
+    },
+    {
+      "name": "Grea",
+      "jpname": "グレア",
+      "id": "3040179000",
+      "element": "Water"
+    },
+    {
+      "name": "Grea",
+      "jpname": "グレア",
+      "id": "3040355000",
+      "element": "Light"
+    },
+    {
+      "name": "Grea",
+      "jpname": "グレア",
+      "id": "3030204000",
+      "element": "Fire"
+    }
+  ],
+  "グリームニル": [
+    {
+      "name": "Grimnir",
+      "jpname": "グリームニル",
+      "id": "3040212000",
+      "element": "Wind"
+    },
+    {
+      "name": "Grimnir",
+      "jpname": "グリームニル",
+      "id": "3040261000",
+      "element": "Wind"
+    },
+    {
+      "name": "Grimnir",
+      "jpname": "グリームニル",
+      "id": "3040598000",
+      "element": "Dark"
+    }
+  ],
+  "グウィン": [
+    {
+      "name": "Gwynne",
+      "jpname": "グウィン",
+      "id": "3040406000",
+      "element": "Water"
+    }
+  ],
+  "ハーゼリーラ": [
+    {
+      "name": "Haaselia",
+      "jpname": "ハーゼリーラ",
+      "id": "3040168000",
+      "element": "Water"
+    },
+    {
+      "name": "Haaselia",
+      "jpname": "ハーゼリーラ",
+      "id": "3040609000",
+      "element": "Wind"
+    }
+  ],
+  "ハレゼナ": [
+    {
+      "name": "Hallessena",
+      "jpname": "ハレゼナ",
+      "id": "3040079000",
+      "element": "Earth"
+    },
+    {
+      "name": "Hallessena",
+      "jpname": "ハレゼナ",
+      "id": "3040240000",
+      "element": "Light"
+    },
+    {
+      "name": "Hallessena",
+      "jpname": "ハレゼナ",
+      "id": "3040540000",
+      "element": "Dark"
+    }
+  ],
+  "ハールート・マールート": [
+    {
+      "name": "Halluel and Malluel",
+      "jpname": "ハールート・マールート",
+      "id": "3040223000",
+      "element": "Light"
+    },
+    {
+      "name": "Halluel and Malluel",
+      "jpname": "ハールート・マールート",
+      "id": "3040443000",
+      "element": "Dark"
+    }
+  ],
+  "ハウヘト": [
+    {
+      "name": "Hauhet",
+      "jpname": "ハウヘト",
+      "id": "3040597000",
+      "element": "Fire"
+    }
+  ],
+  "ヘカテー": [
+    {
+      "name": "Hekate",
+      "jpname": "ヘカテー",
+      "id": "3040450000",
+      "element": "Fire"
+    },
+    {
+      "name": "Hekate",
+      "jpname": "ヘカテー",
+      "id": "3040543000",
+      "element": "Dark"
+    }
+  ],
+  "ヘレル・ベン・シャレム": [
+    {
+      "name": "Helel ben Shalem",
+      "jpname": "ヘレル・ベン・シャレム",
+      "id": "3040251000",
+      "element": "Dark"
+    },
+    {
+      "name": "Helel ben Shalem",
+      "jpname": "ヘレル・ベン・シャレム",
+      "id": "3040351000",
+      "element": "Water"
+    },
+    {
+      "name": "Helel ben Shalem",
+      "jpname": "ヘレル・ベン・シャレム",
+      "id": "3040497000",
+      "element": "Earth"
+    }
+  ],
+  "ヘルエス": [
+    {
+      "name": "Heles",
+      "jpname": "ヘルエス",
+      "id": "3040060000",
+      "element": "Fire"
+    },
+    {
+      "name": "Heles",
+      "jpname": "ヘルエス",
+      "id": "3040091000",
+      "element": "Light"
+    },
+    {
+      "name": "Heles",
+      "jpname": "ヘルエス",
+      "id": "3040208000",
+      "element": "Wind"
+    }
+  ],
+  "ヘリヤ": [
+    {
+      "name": "Herja",
+      "jpname": "ヘリヤ",
+      "id": "3040271000",
+      "element": "Earth"
+    },
+    {
+      "name": "Herja",
+      "jpname": "ヘリヤ",
+      "id": "3030175000",
+      "element": "Earth"
+    },
+    {
+      "name": "Herja",
+      "jpname": "ヘリヤ",
+      "id": "3020001000",
+      "element": "Earth"
+    }
+  ],
+  "トガヒミコ": [
+    {
+      "name": "Himiko Toga",
+      "jpname": "トガヒミコ",
+      "id": "3040506000",
+      "element": "Dark"
+    }
+  ],
+  "竜ヶ崎ヒイロ": [
+    {
+      "name": "Hiro Ryugasaki",
+      "jpname": "竜ヶ崎ヒイロ",
+      "id": "3040294000",
+      "element": "Fire"
+    }
+  ],
+  "ホルス": [
+    {
+      "name": "Horus",
+      "jpname": "ホルス",
+      "id": "3040518000",
+      "element": "Light"
+    }
+  ],
+  "イカロス": [
+    {
+      "name": "Icarus",
+      "jpname": "イカロス",
+      "id": "3040462000",
+      "element": "Fire"
+    }
+  ],
+  "イルノート": [
+    {
+      "name": "Illnott",
+      "jpname": "イルノート",
+      "id": "3040277000",
+      "element": "Fire"
+    },
+    {
+      "name": "Illnott",
+      "jpname": "イルノート",
+      "id": "3040345000",
+      "element": "Earth"
+    },
+    {
+      "name": "Illnott",
+      "jpname": "イルノート",
+      "id": "3040496000",
+      "element": "Light"
+    }
+  ],
+  "イルザ": [
+    {
+      "name": "Ilsa",
+      "jpname": "イルザ",
+      "id": "3040148000",
+      "element": "Earth"
+    },
+    {
+      "name": "Ilsa",
+      "jpname": "イルザ",
+      "id": "3040177000",
+      "element": "Fire"
+    },
+    {
+      "name": "Ilsa",
+      "jpname": "イルザ",
+      "id": "3040258000",
+      "element": "Light"
+    },
+    {
+      "name": "Ilsa",
+      "jpname": "イルザ",
+      "id": "3040456000",
+      "element": "Dark"
+    },
+    {
+      "name": "Ilsa",
+      "jpname": "イルザ",
+      "id": "3040599000",
+      "element": "Water"
+    }
+  ],
+  "インダラ": [
+    {
+      "name": "Indala",
+      "jpname": "インダラ",
+      "id": "3040569000",
+      "element": "Dark"
+    }
+  ],
+  "イオ": [
+    {
+      "name": "Io",
+      "jpname": "イオ",
+      "id": "3040015000",
+      "element": "Fire"
+    },
+    {
+      "name": "Io",
+      "jpname": "イオ",
+      "id": "3040065000",
+      "element": "Light"
+    },
+    {
+      "name": "Io",
+      "jpname": "イオ",
+      "id": "3030006000",
+      "element": "Water"
+    }
+  ],
+  "イッパツ": [
+    {
+      "name": "Ippatsu",
+      "jpname": "イッパツ",
+      "id": "3040382000",
+      "element": "Dark"
+    },
+    {
+      "name": "Ippatsu",
+      "jpname": "イッパツ",
+      "id": "3030232000",
+      "element": "Fire"
+    },
+    {
+      "name": "Ippatsu",
+      "jpname": "イッパツ",
+      "id": "3020038000",
+      "element": "Fire"
+    },
+    {
+      "name": "Ippatsu",
+      "jpname": "イッパツ",
+      "id": "3020060000",
+      "element": "Fire"
+    }
+  ],
+  "イロハ": [
+    {
+      "name": "Iroha",
+      "jpname": "イロハ",
+      "id": "3040398000",
+      "element": "Fire"
+    }
+  ],
+  "アイザック": [
+    {
+      "name": "Isaac",
+      "jpname": "アイザック",
+      "id": "3040327000",
+      "element": "Water"
+    }
+  ],
+  "イシュミール": [
+    {
+      "name": "Izmir",
+      "jpname": "イシュミール",
+      "id": "3040100000",
+      "element": "Water"
+    },
+    {
+      "name": "Izmir",
+      "jpname": "イシュミール",
+      "id": "3040126000",
+      "element": "Water"
+    },
+    {
+      "name": "Izmir",
+      "jpname": "イシュミール",
+      "id": "3040343000",
+      "element": "Fire"
+    }
+  ],
+  "緑谷出久": [
+    {
+      "name": "Izuku Midoriya",
+      "jpname": "緑谷出久",
+      "id": "3040504000",
+      "element": "Wind"
+    }
+  ],
+  "ジャック・ラカン": [
+    {
+      "name": "Jack Rakan",
+      "jpname": "ジャック・ラカン",
+      "id": "3040577000",
+      "element": "Earth"
+    }
+  ],
+  "ジャミル": [
+    {
+      "name": "Jamil",
+      "jpname": "ジャミル",
+      "id": "3040404000",
+      "element": "Earth"
+    },
+    {
+      "name": "Jamil",
+      "jpname": "ジャミル",
+      "id": "3030134000",
+      "element": "Earth"
+    },
+    {
+      "name": "Jamil",
+      "jpname": "ジャミル",
+      "id": "3030196000",
+      "element": "Dark"
+    }
+  ],
+  "ジャスミン": [
+    {
+      "name": "Jasmine",
+      "jpname": "ジャスミン",
+      "id": "3040459000",
+      "element": "Dark"
+    },
+    {
+      "name": "Jasmine",
+      "jpname": "ジャスミン",
+      "id": "3030102000",
+      "element": "Earth"
+    },
+    {
+      "name": "Jasmine",
+      "jpname": "ジャスミン",
+      "id": "3020012000",
+      "element": "Earth"
+    }
+  ],
+  "ジャンヌ": [
+    {
+      "name": "Jeanne d'Arc",
+      "jpname": "ジャンヌ",
+      "id": "3040420000",
+      "element": "Water"
+    }
+  ],
+  "ジャンヌダルク": [
+    {
+      "name": "Jeanne d'Arc",
+      "jpname": "ジャンヌダルク",
+      "id": "3040040000",
+      "element": "Light"
+    },
+    {
+      "name": "Jeanne d'Arc",
+      "jpname": "ジャンヌダルク",
+      "id": "3040080000",
+      "element": "Dark"
+    },
+    {
+      "name": "Jeanne d'Arc",
+      "jpname": "ジャンヌダルク",
+      "id": "3040154000",
+      "element": "Wind"
+    },
+    {
+      "name": "Jeanne d'Arc",
+      "jpname": "ジャンヌダルク",
+      "id": "3040245000",
+      "element": "Light"
+    },
+    {
+      "name": "Jeanne d'Arc",
+      "jpname": "ジャンヌダルク",
+      "id": "3030195000",
+      "element": "Light"
+    }
+  ],
+  "ジェシカ": [
+    {
+      "name": "Jessica",
+      "jpname": "ジェシカ",
+      "id": "3040227000",
+      "element": "Earth"
+    },
+    {
+      "name": "Jessica",
+      "jpname": "ジェシカ",
+      "id": "3040423000",
+      "element": "Dark"
+    },
+    {
+      "name": "Jessica",
+      "jpname": "ジェシカ",
+      "id": "3030016000",
+      "element": "Fire"
+    },
+    {
+      "name": "Jessica",
+      "jpname": "ジェシカ",
+      "id": "3030030000",
+      "element": "Fire"
+    },
+    {
+      "name": "Jessica",
+      "jpname": "ジェシカ",
+      "id": "3030159000",
+      "element": "Earth"
+    }
+  ],
+  "ジン": [
+    {
+      "name": "Jin",
+      "jpname": "ジン",
+      "id": "3040257000",
+      "element": "Earth"
+    },
+    {
+      "name": "Jin",
+      "jpname": "ジン",
+      "id": "3030022000",
+      "element": "Earth"
+    },
+    {
+      "name": "Jin",
+      "jpname": "ジン",
+      "id": "3030086000",
+      "element": "Earth"
+    },
+    {
+      "name": "Jin",
+      "jpname": "ジン",
+      "id": "3030151000",
+      "element": "Wind"
+    },
+    {
+      "name": "Jin",
+      "jpname": "ジン",
+      "id": "3030178000",
+      "element": "Earth"
+    }
+  ],
+  "ジョエル": [
+    {
+      "name": "Joel",
+      "jpname": "ジョエル",
+      "id": "3040614000",
+      "element": "Water"
+    },
+    {
+      "name": "Joel",
+      "jpname": "ジョエル",
+      "id": "3030320000",
+      "element": "Water"
+    },
+    {
+      "name": "Joel",
+      "jpname": "ジョエル",
+      "id": "3020040000",
+      "element": "Water"
+    }
+  ],
+  "ジョーカー": [
+    {
+      "name": "Joker",
+      "jpname": "ジョーカー",
+      "id": "3040173000",
+      "element": "Dark"
+    }
+  ],
+  "ジョイ": [
+    {
+      "name": "Joy",
+      "jpname": "ジョイ",
+      "id": "3040588000",
+      "element": "Wind"
+    },
+    {
+      "name": "Joy",
+      "jpname": "ジョイ",
+      "id": "3030280000",
+      "element": "Wind"
+    }
+  ],
+  "ジュリエット": [
+    {
+      "name": "Juliet",
+      "jpname": "ジュリエット",
+      "id": "3040096000",
+      "element": "Light"
+    },
+    {
+      "name": "Juliet",
+      "jpname": "ジュリエット",
+      "id": "3040293000",
+      "element": "Water"
+    }
+  ],
+  "ユーリ": [
+    {
+      "name": "Juri",
+      "jpname": "ユーリ",
+      "id": "3040509000",
+      "element": "Water"
+    },
+    {
+      "name": "Juri",
+      "jpname": "ユーリ",
+      "id": "3030038000",
+      "element": "Earth"
+    },
+    {
+      "name": "Juri",
+      "jpname": "ユーリ",
+      "id": "3030253000",
+      "element": "Wind"
+    }
+  ],
+  "高垣楓": [
+    {
+      "name": "Kaede Takagaki",
+      "jpname": "高垣楓",
+      "id": "3040276000",
+      "element": "Wind"
+    }
+  ],
+  "カグヤ": [
+    {
+      "name": "Kaguya",
+      "jpname": "カグヤ",
+      "id": "3040486000",
+      "element": "Wind"
+    }
+  ],
+  "紅月カレン": [
+    {
+      "name": "Kallen Kouzuki",
+      "jpname": "紅月カレン",
+      "id": "3040221000",
+      "element": "Fire"
+    }
+  ],
+  "キャル": [
+    {
+      "name": "Karyl",
+      "jpname": "キャル",
+      "id": "3040216000",
+      "element": "Dark"
+    }
+  ],
+  "カタリナ": [
+    {
+      "name": "Katalina",
+      "jpname": "カタリナ",
+      "id": "3040054000",
+      "element": "Water"
+    },
+    {
+      "name": "Katalina",
+      "jpname": "カタリナ",
+      "id": "3040118000",
+      "element": "Dark"
+    },
+    {
+      "name": "Katalina",
+      "jpname": "カタリナ",
+      "id": "3030005000",
+      "element": "Water"
+    },
+    {
+      "name": "Katalina",
+      "jpname": "カタリナ",
+      "id": "3030029000",
+      "element": "Water"
+    }
+  ],
+  "爆豪勝己": [
+    {
+      "name": "Katsuki Bakugo",
+      "jpname": "爆豪勝己",
+      "id": "3040505000",
+      "element": "Fire"
+    }
+  ],
+  "カッツェリーラ": [
+    {
+      "name": "Katzelia",
+      "jpname": "カッツェリーラ",
+      "id": "3040166000",
+      "element": "Wind"
+    }
+  ],
+  "カヲル&Mark.06": [
+    {
+      "name": "Kaworu & Mark.06",
+      "jpname": "カヲル&Mark.06",
+      "id": "3040625000",
+      "element": "Light"
+    }
+  ],
+  "キルア": [
+    {
+      "name": "Killua",
+      "jpname": "キルア",
+      "id": "3040606000",
+      "element": "Wind"
+    }
+  ],
+  "コッコロ": [
+    {
+      "name": "Kokkoro",
+      "jpname": "コッコロ",
+      "id": "3040201000",
+      "element": "Wind"
+    }
+  ],
+  "コク": [
+    {
+      "name": "Koku",
+      "jpname": "コク",
+      "id": "3040571000",
+      "element": "Dark"
+    }
+  ],
+  "コルル": [
+    {
+      "name": "Kolulu",
+      "jpname": "コルル",
+      "id": "3040222000",
+      "element": "Dark"
+    },
+    {
+      "name": "Kolulu",
+      "jpname": "コルル",
+      "id": "3040283000",
+      "element": "Water"
+    },
+    {
+      "name": "Kolulu",
+      "jpname": "コルル",
+      "id": "3040529000",
+      "element": "Earth"
+    }
+  ],
+  "コルワ": [
+    {
+      "name": "Korwa",
+      "jpname": "コルワ",
+      "id": "3040081000",
+      "element": "Wind"
+    },
+    {
+      "name": "Korwa",
+      "jpname": "コルワ",
+      "id": "3040127000",
+      "element": "Wind"
+    },
+    {
+      "name": "Korwa",
+      "jpname": "コルワ",
+      "id": "3040465000",
+      "element": "Water"
+    },
+    {
+      "name": "Korwa",
+      "jpname": "コルワ",
+      "id": "3040602000",
+      "element": "Light"
+    },
+    {
+      "name": "Korwa",
+      "jpname": "コルワ",
+      "id": "3030266000",
+      "element": "Wind"
+    }
+  ],
+  "コウ": [
+    {
+      "name": "Kou",
+      "jpname": "コウ",
+      "id": "3040242000",
+      "element": "Dark"
+    },
+    {
+      "name": "Kou",
+      "jpname": "コウ",
+      "id": "3040594000",
+      "element": "Light"
+    }
+  ],
+  "クビラ": [
+    {
+      "name": "Kumbhira",
+      "jpname": "クビラ",
+      "id": "3040197000",
+      "element": "Light"
+    },
+    {
+      "name": "Kumbhira",
+      "jpname": "クビラ",
+      "id": "3040329000",
+      "element": "Fire"
+    },
+    {
+      "name": "Kumbhira",
+      "jpname": "クビラ",
+      "id": "3030279000",
+      "element": "Light"
+    }
+  ],
+  "クラピカ": [
+    {
+      "name": "Kurapika",
+      "jpname": "クラピカ",
+      "id": "3040607000",
+      "element": "Fire"
+    }
+  ],
+  "煉獄杏寿郎": [
+    {
+      "name": "Kyojuro Rengoku",
+      "jpname": "煉獄杏寿郎",
+      "id": "3040309000",
+      "element": "Fire"
+    }
+  ],
+  "ファスティバ": [
+    {
+      "name": "Ladiva",
+      "jpname": "ファスティバ",
+      "id": "3040217000",
+      "element": "Earth"
+    },
+    {
+      "name": "Ladiva",
+      "jpname": "ファスティバ",
+      "id": "3040386000",
+      "element": "Light"
+    },
+    {
+      "name": "Ladiva",
+      "jpname": "ファスティバ",
+      "id": "3030055000",
+      "element": "Earth"
+    },
+    {
+      "name": "Ladiva",
+      "jpname": "ファスティバ",
+      "id": "3030109000",
+      "element": "Light"
+    }
+  ],
+  "レディ・グレイ": [
+    {
+      "name": "Lady Grey",
+      "jpname": "レディ・グレイ",
+      "id": "3040005000",
+      "element": "Dark"
+    },
+    {
+      "name": "Lady Grey",
+      "jpname": "レディ・グレイ",
+      "id": "3040189000",
+      "element": "Dark"
+    }
+  ],
+  "キャタピラとヴィーラ": [
+    {
+      "name": "Lady Katapillar and Vira",
+      "jpname": "キャタピラとヴィーラ",
+      "id": "3040116000",
+      "element": "Water"
+    }
+  ],
+  "ラグナ": [
+    {
+      "name": "Laguna",
+      "jpname": "ラグナ",
+      "id": "3040394000",
+      "element": "Earth"
+    },
+    {
+      "name": "Laguna",
+      "jpname": "ラグナ",
+      "id": "3030133000",
+      "element": "Earth"
+    }
+  ],
+  "ラモラック": [
+    {
+      "name": "Lamorak",
+      "jpname": "ラモラック",
+      "id": "3040615000",
+      "element": "Wind"
+    }
+  ],
+  "ラムレッダ": [
+    {
+      "name": "Lamretta",
+      "jpname": "ラムレッダ",
+      "id": "3040319000",
+      "element": "Earth"
+    },
+    {
+      "name": "Lamretta",
+      "jpname": "ラムレッダ",
+      "id": "3030013000",
+      "element": "Earth"
+    },
+    {
+      "name": "Lamretta",
+      "jpname": "ラムレッダ",
+      "id": "3030186000",
+      "element": "Water"
+    },
+    {
+      "name": "Lamretta",
+      "jpname": "ラムレッダ",
+      "id": "3020052000",
+      "element": "Fire"
+    }
+  ],
+  "ランスロット": [
+    {
+      "name": "Lancelot",
+      "jpname": "ランスロット",
+      "id": "3040023000",
+      "element": "Water"
+    },
+    {
+      "name": "Lancelot",
+      "jpname": "ランスロット",
+      "id": "3040140000",
+      "element": "Wind"
+    },
+    {
+      "name": "Lancelot",
+      "jpname": "ランスロット",
+      "id": "3040374000",
+      "element": "Water"
+    },
+    {
+      "name": "Lancelot",
+      "jpname": "ランスロット",
+      "id": "3040618000",
+      "element": "Wind"
+    },
+    {
+      "name": "Lancelot",
+      "jpname": "ランスロット",
+      "id": "3030108000",
+      "element": "Water"
+    }
+  ],
+  "白竜の双騎士 ランスロット＆ヴェイン": [
+    {
+      "name": "Lancelot and Vane",
+      "jpname": "白竜の双騎士 ランスロット＆ヴェイン",
+      "id": "3040191000",
+      "element": "Fire"
+    },
+    {
+      "name": "Lancelot and Vane",
+      "jpname": "白竜の双騎士 ランスロット＆ヴェイン",
+      "id": "3030272000",
+      "element": "Earth"
+    }
+  ],
+  "ラヴィリタ": [
+    {
+      "name": "Lavirita",
+      "jpname": "ラヴィリタ",
+      "id": "3040591000",
+      "element": "Fire"
+    }
+  ],
+  "リーシャ": [
+    {
+      "name": "Lecia",
+      "jpname": "リーシャ",
+      "id": "3040101000",
+      "element": "Wind"
+    },
+    {
+      "name": "Lecia",
+      "jpname": "リーシャ",
+      "id": "3040263000",
+      "element": "Water"
+    },
+    {
+      "name": "Lecia",
+      "jpname": "リーシャ",
+      "id": "3040556000",
+      "element": "Wind"
+    },
+    {
+      "name": "Lecia",
+      "jpname": "リーシャ",
+      "id": "3030072000",
+      "element": "Wind"
+    },
+    {
+      "name": "Lecia",
+      "jpname": "リーシャ",
+      "id": "3030087000",
+      "element": "Wind"
+    }
+  ],
+  "ルルーシュ・ランペルージ": [
+    {
+      "name": "Lelouch Lamperouge",
+      "jpname": "ルルーシュ・ランペルージ",
+      "id": "3040219000",
+      "element": "Dark"
+    }
+  ],
+  "レナ": [
+    {
+      "name": "Lennah",
+      "jpname": "レナ",
+      "id": "3040021000",
+      "element": "Wind"
+    },
+    {
+      "name": "Lennah",
+      "jpname": "レナ",
+      "id": "3040340000",
+      "element": "Earth"
+    }
+  ],
+  "レオナ": [
+    {
+      "name": "Leona",
+      "jpname": "レオナ",
+      "id": "3040285000",
+      "element": "Earth"
+    },
+    {
+      "name": "Leona",
+      "jpname": "レオナ",
+      "id": "3030241000",
+      "element": "Earth"
+    },
+    {
+      "name": "Leona",
+      "jpname": "レオナ",
+      "id": "3030274000",
+      "element": "Water"
+    }
+  ],
+  "リヴァイ": [
+    {
+      "name": "Levi",
+      "jpname": "リヴァイ",
+      "id": "3040142000",
+      "element": "Wind"
+    }
+  ],
+  "レヴィオン姉妹 マイム＆ミイム＆メイム": [
+    {
+      "name": "Levin Sisters",
+      "jpname": "レヴィオン姉妹 マイム＆ミイム＆メイム",
+      "id": "3040193000",
+      "element": "Light"
+    }
+  ],
+  "リッチ": [
+    {
+      "name": "Lich",
+      "jpname": "リッチ",
+      "id": "3040357000",
+      "element": "Dark"
+    },
+    {
+      "name": "Lich",
+      "jpname": "リッチ",
+      "id": "3040427000",
+      "element": "Wind"
+    },
+    {
+      "name": "Lich",
+      "jpname": "リッチ",
+      "id": "3040603000",
+      "element": "Earth"
+    }
+  ],
+  "リルル": [
+    {
+      "name": "Lilele",
+      "jpname": "リルル",
+      "id": "3040066000",
+      "element": "Water"
+    },
+    {
+      "name": "Lilele",
+      "jpname": "リルル",
+      "id": "3040383000",
+      "element": "Fire"
+    },
+    {
+      "name": "Lilele",
+      "jpname": "リルル",
+      "id": "3030247000",
+      "element": "Water"
+    }
+  ],
+  "リリゼット": [
+    {
+      "name": "Lilisette",
+      "jpname": "リリゼット",
+      "id": "3040399000",
+      "element": "Wind"
+    }
+  ],
+  "リリィ": [
+    {
+      "name": "Lily",
+      "jpname": "リリィ",
+      "id": "3040007000",
+      "element": "Water"
+    },
+    {
+      "name": "Lily",
+      "jpname": "リリィ",
+      "id": "3040311000",
+      "element": "Light"
+    },
+    {
+      "name": "Lily",
+      "jpname": "リリィ",
+      "id": "3040463000",
+      "element": "Wind"
+    },
+    {
+      "name": "Lily",
+      "jpname": "リリィ",
+      "id": "3030165000",
+      "element": "Water"
+    }
+  ],
+  "ロベリア": [
+    {
+      "name": "Lobelia",
+      "jpname": "ロベリア",
+      "id": "3040165000",
+      "element": "Earth"
+    },
+    {
+      "name": "Lobelia",
+      "jpname": "ロベリア",
+      "id": "3040578000",
+      "element": "Dark"
+    }
+  ],
+  "ローアイン": [
+    {
+      "name": "Lowain",
+      "jpname": "ローアイン",
+      "id": "3040500000",
+      "element": "Dark"
+    },
+    {
+      "name": "Lowain",
+      "jpname": "ローアイン",
+      "id": "3030123000",
+      "element": "Water"
+    },
+    {
+      "name": "Lowain",
+      "jpname": "ローアイン",
+      "id": "3020031000",
+      "element": "Dark"
+    },
+    {
+      "name": "Lowain",
+      "jpname": "ローアイン",
+      "id": "3020041000",
+      "element": "Dark"
+    }
+  ],
+  "ル・オー": [
+    {
+      "name": "Lu Woh",
+      "jpname": "ル・オー",
+      "id": "3040449000",
+      "element": "Light"
+    },
+    {
+      "name": "Lu Woh",
+      "jpname": "ル・オー",
+      "id": "3040583000",
+      "element": "Earth"
+    }
+  ],
+  "ルシオ": [
+    {
+      "name": "Lucio",
+      "jpname": "ルシオ",
+      "id": "3040106000",
+      "element": "Light"
+    },
+    {
+      "name": "Lucio",
+      "jpname": "ルシオ",
+      "id": "3040286000",
+      "element": "Water"
+    }
+  ],
+  "ルシウス": [
+    {
+      "name": "Lucius",
+      "jpname": "ルシウス",
+      "id": "3040254000",
+      "element": "Dark"
+    },
+    {
+      "name": "Lucius",
+      "jpname": "ルシウス",
+      "id": "3030033000",
+      "element": "Dark"
+    },
+    {
+      "name": "Lucius",
+      "jpname": "ルシウス",
+      "id": "3030171000",
+      "element": "Fire"
+    }
+  ],
+  "ルフィ": [
+    {
+      "name": "Luffy",
+      "jpname": "ルフィ",
+      "id": "3040416000",
+      "element": "Fire"
+    }
+  ],
+  "ルロウホロウ": [
+    {
+      "name": "Lulou Holou",
+      "jpname": "ルロウホロウ",
+      "id": "3040635000",
+      "element": "Wind"
+    }
+  ],
+  "ルナール": [
+    {
+      "name": "Lunalu",
+      "jpname": "ルナール",
+      "id": "3040172000",
+      "element": "Dark"
+    },
+    {
+      "name": "Lunalu",
+      "jpname": "ルナール",
+      "id": "3040364000",
+      "element": "Light"
+    },
+    {
+      "name": "Lunalu",
+      "jpname": "ルナール",
+      "id": "3020050000",
+      "element": "Dark"
+    },
+    {
+      "name": "Lunalu",
+      "jpname": "ルナール",
+      "id": "3020061000",
+      "element": "Dark"
+    }
+  ],
+  "ルリア": [
+    {
+      "name": "Lyria",
+      "jpname": "ルリア",
+      "id": "3040643000",
+      "element": "any"
+    },
+    {
+      "name": "Lyria",
+      "jpname": "ルリア",
+      "id": "3030182000",
+      "element": "Any"
+    }
+  ],
+  "マキュラ・マリウス": [
+    {
+      "name": "Macula Marius",
+      "jpname": "マキュラ・マリウス",
+      "id": "3040213000",
+      "element": "Water"
+    }
+  ],
+  "マギサ": [
+    {
+      "name": "Magisa",
+      "jpname": "マギサ",
+      "id": "3040011000",
+      "element": "Fire"
+    },
+    {
+      "name": "Magisa",
+      "jpname": "マギサ",
+      "id": "3040247000",
+      "element": "Earth"
+    },
+    {
+      "name": "Magisa",
+      "jpname": "マギサ",
+      "id": "3040412000",
+      "element": "Dark"
+    }
+  ],
+  "メイガス": [
+    {
+      "name": "Magus",
+      "jpname": "メイガス",
+      "id": "3040517000",
+      "element": "Dark"
+    }
+  ],
+  "マキラ": [
+    {
+      "name": "Mahira",
+      "jpname": "マキラ",
+      "id": "3040107000",
+      "element": "Earth"
+    },
+    {
+      "name": "Mahira",
+      "jpname": "マキラ",
+      "id": "3040372000",
+      "element": "Light"
+    },
+    {
+      "name": "Mahira",
+      "jpname": "マキラ",
+      "id": "3040584000",
+      "element": "Wind"
+    },
+    {
+      "name": "Mahira",
+      "jpname": "マキラ",
+      "id": "3030229000",
+      "element": "Earth"
+    }
+  ],
+  "マコラ": [
+    {
+      "name": "Makura",
+      "jpname": "マコラ",
+      "id": "3040441000",
+      "element": "Light"
+    },
+    {
+      "name": "Makura",
+      "jpname": "マコラ",
+      "id": "3040579000",
+      "element": "Earth"
+    }
+  ],
+  "メレアガンス": [
+    {
+      "name": "Maleagant",
+      "jpname": "メレアガンス",
+      "id": "3040572000",
+      "element": "Earth"
+    }
+  ],
+  "マナマル": [
+    {
+      "name": "Manamel",
+      "jpname": "マナマル",
+      "id": "3040401000",
+      "element": "Dark"
+    },
+    {
+      "name": "Manamel",
+      "jpname": "マナマル",
+      "id": "3040555000",
+      "element": "Earth"
+    }
+  ],
+  "マヌ＝ポヌマウ": [
+    {
+      "name": "Manu Ponumau",
+      "jpname": "マヌ＝ポヌマウ",
+      "id": "3040653000",
+      "element": "Dark"
+    }
+  ],
+  "マリア・テレサ": [
+    {
+      "name": "Maria Theresa",
+      "jpname": "マリア・テレサ",
+      "id": "3040160000",
+      "element": "Water"
+    },
+    {
+      "name": "Maria Theresa",
+      "jpname": "マリア・テレサ",
+      "id": "3040629000",
+      "element": "Fire"
+    }
+  ],
+  "マルキアレス": [
+    {
+      "name": "Marquiares",
+      "jpname": "マルキアレス",
+      "id": "3040108000",
+      "element": "Dark"
+    }
+  ],
+  "マーズ": [
+    {
+      "name": "Mars",
+      "jpname": "マーズ",
+      "id": "3040592000",
+      "element": "Light"
+    }
+  ],
+  "マリー": [
+    {
+      "name": "Mary",
+      "jpname": "マリー",
+      "id": "3040143000",
+      "element": "Light"
+    },
+    {
+      "name": "Mary",
+      "jpname": "マリー",
+      "id": "3030068000",
+      "element": "Fire"
+    },
+    {
+      "name": "Mary",
+      "jpname": "マリー",
+      "id": "3020016000",
+      "element": "Fire"
+    },
+    {
+      "name": "Mary",
+      "jpname": "マリー",
+      "id": "3020023000",
+      "element": "Fire"
+    }
+  ],
+  "マッコイ": [
+    {
+      "name": "McCoy",
+      "jpname": "マッコイ",
+      "id": "3040637000",
+      "element": "Earth"
+    }
+  ],
+  "メドゥーサ": [
+    {
+      "name": "Medusa",
+      "jpname": "メドゥーサ",
+      "id": "3040123000",
+      "element": "Earth"
+    },
+    {
+      "name": "Medusa",
+      "jpname": "メドゥーサ",
+      "id": "3040151000",
+      "element": "Earth"
+    },
+    {
+      "name": "Medusa",
+      "jpname": "メドゥーサ",
+      "id": "3040214000",
+      "element": "Earth"
+    },
+    {
+      "name": "Medusa",
+      "jpname": "メドゥーサ",
+      "id": "3040389000",
+      "element": "Fire"
+    },
+    {
+      "name": "Medusa",
+      "jpname": "メドゥーサ",
+      "id": "3040547000",
+      "element": "Earth"
+    }
+  ],
+  "メグ": [
+    {
+      "name": "Meg",
+      "jpname": "メグ",
+      "id": "3040346000",
+      "element": "Dark"
+    },
+    {
+      "name": "Meg",
+      "jpname": "メグ",
+      "id": "3030290000",
+      "element": "Dark"
+    }
+  ],
+  "メグ＆まりっぺ": [
+    {
+      "name": "Meg and Mari",
+      "jpname": "メグ＆まりっぺ",
+      "id": "3040482000",
+      "element": "Dark"
+    }
+  ],
+  "メリッサベル": [
+    {
+      "name": "Melissabelle",
+      "jpname": "メリッサベル",
+      "id": "3040102000",
+      "element": "Wind"
+    },
+    {
+      "name": "Melissabelle",
+      "jpname": "メリッサベル",
+      "id": "3040207000",
+      "element": "Light"
+    }
+  ],
+  "メルゥ": [
+    {
+      "name": "Melleau",
+      "jpname": "メルゥ",
+      "id": "3040022000",
+      "element": "Earth"
+    }
+  ],
+  "ミュオン": [
+    {
+      "name": "Meteon",
+      "jpname": "ミュオン",
+      "id": "3040246000",
+      "element": "Wind"
+    },
+    {
+      "name": "Meteon",
+      "jpname": "ミュオン",
+      "id": "3030172000",
+      "element": "Wind"
+    }
+  ],
+  "メーテラ": [
+    {
+      "name": "Metera",
+      "jpname": "メーテラ",
+      "id": "3040012000",
+      "element": "Wind"
+    },
+    {
+      "name": "Metera",
+      "jpname": "メーテラ",
+      "id": "3040072000",
+      "element": "Fire"
+    },
+    {
+      "name": "Metera",
+      "jpname": "メーテラ",
+      "id": "3040195000",
+      "element": "Light"
+    },
+    {
+      "name": "Metera",
+      "jpname": "メーテラ",
+      "id": "3040347000",
+      "element": "Earth"
+    },
+    {
+      "name": "Metera",
+      "jpname": "メーテラ",
+      "id": "3040620000",
+      "element": "Wind"
+    }
+  ],
+  "ミカエル": [
+    {
+      "name": "Michael",
+      "jpname": "ミカエル",
+      "id": "3040440000",
+      "element": "Fire"
+    }
+  ],
+  "三日月宗近": [
+    {
+      "name": "Mikazuki Munechika",
+      "jpname": "三日月宗近",
+      "id": "3040131000",
+      "element": "Light"
+    }
+  ],
+  "阿吽の破弓 ミラオル＆ザーリリャオー": [
+    {
+      "name": "Milleore and Sahli Lao",
+      "jpname": "阿吽の破弓 ミラオル＆ザーリリャオー",
+      "id": "3040272000",
+      "element": "Water"
+    }
+  ],
+  "ミムルメモル": [
+    {
+      "name": "Mimlemel",
+      "jpname": "ミムルメモル",
+      "id": "3040292000",
+      "element": "Fire"
+    },
+    {
+      "name": "Mimlemel",
+      "jpname": "ミムルメモル",
+      "id": "3030043000",
+      "element": "Wind"
+    }
+  ],
+  "天宮ミモリ": [
+    {
+      "name": "Mimori Amamiya",
+      "jpname": "天宮ミモリ",
+      "id": "3040295000",
+      "element": "Wind"
+    }
+  ],
+  "ミレイユ＆リゼット": [
+    {
+      "name": "Mireille and Risette",
+      "jpname": "ミレイユ＆リゼット",
+      "id": "3040302000",
+      "element": "Earth"
+    }
+  ],
+  "ミリン": [
+    {
+      "name": "Mirin",
+      "jpname": "ミリン",
+      "id": "3040307000",
+      "element": "Water"
+    },
+    {
+      "name": "Mirin",
+      "jpname": "ミリン",
+      "id": "3040409000",
+      "element": "Fire"
+    },
+    {
+      "name": "Mirin",
+      "jpname": "ミリン",
+      "id": "3040534000",
+      "element": "Wind"
+    },
+    {
+      "name": "Mirin",
+      "jpname": "ミリン",
+      "id": "3030224000",
+      "element": "Wind"
+    },
+    {
+      "name": "Mirin",
+      "jpname": "ミリン",
+      "id": "3030265000",
+      "element": "Light"
+    }
+  ],
+  "マイシェラ": [
+    {
+      "name": "Mishra",
+      "jpname": "マイシェラ",
+      "id": "3040317000",
+      "element": "Light"
+    },
+    {
+      "name": "Mishra",
+      "jpname": "マイシェラ",
+      "id": "3030002000",
+      "element": "Water"
+    }
+  ],
+  "モニカ": [
+    {
+      "name": "Monika",
+      "jpname": "モニカ",
+      "id": "3040186000",
+      "element": "Wind"
+    },
+    {
+      "name": "Monika",
+      "jpname": "モニカ",
+      "id": "3040238000",
+      "element": "Wind"
+    },
+    {
+      "name": "Monika",
+      "jpname": "モニカ",
+      "id": "3040321000",
+      "element": "Earth"
+    },
+    {
+      "name": "Monika",
+      "jpname": "モニカ",
+      "id": "3040454000",
+      "element": "Light"
+    }
+  ],
+  "バイヴカハ": [
+    {
+      "name": "Morrigna",
+      "jpname": "バイヴカハ",
+      "id": "3040218000",
+      "element": "Wind"
+    }
+  ],
+  "ミランダ": [
+    {
+      "name": "Ms. Miranda",
+      "jpname": "ミランダ",
+      "id": "3040339000",
+      "element": "Fire"
+    }
+  ],
+  "ムゲン": [
+    {
+      "name": "Mugen",
+      "jpname": "ムゲン",
+      "id": "3040267000",
+      "element": "Fire"
+    },
+    {
+      "name": "Mugen",
+      "jpname": "ムゲン",
+      "id": "3040428000",
+      "element": "Light"
+    }
+  ],
+  "ナミ&ロビン": [
+    {
+      "name": "Nami and Robin",
+      "jpname": "ナミ&ロビン",
+      "id": "3040418000",
+      "element": "Wind"
+    }
+  ],
+  "ノイシュ": [
+    {
+      "name": "Naoise",
+      "jpname": "ノイシュ",
+      "id": "3040178000",
+      "element": "Light"
+    },
+    {
+      "name": "Naoise",
+      "jpname": "ノイシュ",
+      "id": "3040281000",
+      "element": "Wind"
+    },
+    {
+      "name": "Naoise",
+      "jpname": "ノイシュ",
+      "id": "3040354000",
+      "element": "Fire"
+    },
+    {
+      "name": "Naoise",
+      "jpname": "ノイシュ",
+      "id": "3030000000",
+      "element": "Light"
+    },
+    {
+      "name": "Naoise",
+      "jpname": "ノイシュ",
+      "id": "3030096000",
+      "element": "Fire"
+    }
+  ],
+  "ナルメア": [
+    {
+      "name": "Narmaya",
+      "jpname": "ナルメア",
+      "id": "3040063000",
+      "element": "Dark"
+    },
+    {
+      "name": "Narmaya",
+      "jpname": "ナルメア",
+      "id": "3040089000",
+      "element": "Water"
+    },
+    {
+      "name": "Narmaya",
+      "jpname": "ナルメア",
+      "id": "3040249000",
+      "element": "Earth"
+    },
+    {
+      "name": "Narmaya",
+      "jpname": "ナルメア",
+      "id": "3040335000",
+      "element": "Wind"
+    },
+    {
+      "name": "Narmaya",
+      "jpname": "ナルメア",
+      "id": "3040392000",
+      "element": "Light"
+    },
+    {
+      "name": "Narmaya",
+      "jpname": "ナルメア",
+      "id": "3030235000",
+      "element": "Dark"
+    }
+  ],
+  "ネクタル": [
+    {
+      "name": "Nectar",
+      "jpname": "ネクタル",
+      "id": "3040318000",
+      "element": "Wind"
+    },
+    {
+      "name": "Nectar",
+      "jpname": "ネクタル",
+      "id": "3040535000",
+      "element": "Water"
+    }
+  ],
+  "ネギ・スプリングフィールド": [
+    {
+      "name": "Negi Springfield",
+      "jpname": "ネギ・スプリングフィールド",
+      "id": "3040574000",
+      "element": "Wind"
+    }
+  ],
+  "ネハン": [
+    {
+      "name": "Nehan",
+      "jpname": "ネハン",
+      "id": "3040341000",
+      "element": "Light"
+    },
+    {
+      "name": "Nehan",
+      "jpname": "ネハン",
+      "id": "3040511000",
+      "element": "Fire"
+    }
+  ],
+  "ネモネ": [
+    {
+      "name": "Nemone",
+      "jpname": "ネモネ",
+      "id": "3040085000",
+      "element": "Earth"
+    },
+    {
+      "name": "Nemone",
+      "jpname": "ネモネ",
+      "id": "3040306000",
+      "element": "Fire"
+    }
+  ],
+  "渋谷凛＆島村卯月＆本田未央": [
+    {
+      "name": "New Generations",
+      "jpname": "渋谷凛＆島村卯月＆本田未央",
+      "id": "3040275000",
+      "element": "Light"
+    }
+  ],
+  "ネツァワルピリ": [
+    {
+      "name": "Nezahualpilli",
+      "jpname": "ネツァワルピリ",
+      "id": "3040003000",
+      "element": "Wind"
+    },
+    {
+      "name": "Nezahualpilli",
+      "jpname": "ネツァワルピリ",
+      "id": "3030237000",
+      "element": "Earth"
+    }
+  ],
+  "ナタク": [
+    {
+      "name": "Nezha",
+      "jpname": "ナタク",
+      "id": "3040332000",
+      "element": "Wind"
+    },
+    {
+      "name": "Nezha",
+      "jpname": "ナタク",
+      "id": "3040455000",
+      "element": "Fire"
+    }
+  ],
+  "シロウ": [
+    {
+      "name": "Nicholas",
+      "jpname": "シロウ",
+      "id": "3040156000",
+      "element": "Dark"
+    },
+    {
+      "name": "Nicholas",
+      "jpname": "シロウ",
+      "id": "3040315000",
+      "element": "Light"
+    },
+    {
+      "name": "Nicholas",
+      "jpname": "シロウ",
+      "id": "3030141000",
+      "element": "Light"
+    }
+  ],
+  "ニーア": [
+    {
+      "name": "Nier",
+      "jpname": "ニーア",
+      "id": "3040169000",
+      "element": "Dark"
+    },
+    {
+      "name": "Nier",
+      "jpname": "ニーア",
+      "id": "3040546000",
+      "element": "Water"
+    }
+  ],
+  "ニーナ・ドランゴ": [
+    {
+      "name": "Nina Drango",
+      "jpname": "ニーナ・ドランゴ",
+      "id": "3040133000",
+      "element": "Fire"
+    }
+  ],
+  "ニオ": [
+    {
+      "name": "Niyon",
+      "jpname": "ニオ",
+      "id": "3040038000",
+      "element": "Wind"
+    }
+  ],
+  "ノア": [
+    {
+      "name": "Noa",
+      "jpname": "ノア",
+      "id": "3040255000",
+      "element": "Light"
+    },
+    {
+      "name": "Noa",
+      "jpname": "ノア",
+      "id": "3040498000",
+      "element": "Fire"
+    },
+    {
+      "name": "Noa",
+      "jpname": "ノア",
+      "id": "3030039000",
+      "element": "Light"
+    }
+  ],
+  "釘崎野薔薇＆禪院真希": [
+    {
+      "name": "Nobara Kugisaki and Maki Zen'in",
+      "jpname": "釘崎野薔薇＆禪院真希",
+      "id": "3040477000",
+      "element": "Earth"
+    }
+  ],
+  "のび太": [
+    {
+      "name": "Nobita",
+      "jpname": "のび太",
+      "id": "3040371000",
+      "element": "Light"
+    }
+  ],
+  "ノワール": [
+    {
+      "name": "Noire",
+      "jpname": "ノワール",
+      "id": "3040549000",
+      "element": "Wind"
+    }
+  ],
+  "ナーヴェ": [
+    {
+      "name": "Novei",
+      "jpname": "ナーヴェ",
+      "id": "3040550000",
+      "element": "Light"
+    },
+    {
+      "name": "Novei",
+      "jpname": "ナーヴェ",
+      "id": "3030142000",
+      "element": "Light"
+    }
+  ],
+  "オクタヴィア": [
+    {
+      "name": "Octavia",
+      "jpname": "オクタヴィア",
+      "id": "3040644000",
+      "element": "Water"
+    }
+  ],
+  "オリヴィエ": [
+    {
+      "name": "Olivia",
+      "jpname": "オリヴィエ",
+      "id": "3040145000",
+      "element": "Dark"
+    },
+    {
+      "name": "Olivia",
+      "jpname": "オリヴィエ",
+      "id": "3040508000",
+      "element": "Earth"
+    },
+    {
+      "name": "Olivia",
+      "jpname": "オリヴィエ",
+      "id": "3030246000",
+      "element": "Dark"
+    }
+  ],
+  "オーキス": [
+    {
+      "name": "Orchid",
+      "jpname": "オーキス",
+      "id": "3040111000",
+      "element": "Dark"
+    },
+    {
+      "name": "Orchid",
+      "jpname": "オーキス",
+      "id": "3040446000",
+      "element": "Earth"
+    }
+  ],
+  "オロロジャイア": [
+    {
+      "name": "Orologia",
+      "jpname": "オロロジャイア",
+      "id": "3040536000",
+      "element": "Dark"
+    }
+  ],
+  "パラシュラーマ": [
+    {
+      "name": "Parashurama",
+      "jpname": "パラシュラーマ",
+      "id": "3040650000",
+      "element": "Fire"
+    }
+  ],
+  "パリス": [
+    {
+      "name": "Paris",
+      "jpname": "パリス",
+      "id": "3040483000",
+      "element": "Earth"
+    },
+    {
+      "name": "Paris",
+      "jpname": "パリス",
+      "id": "3030157000",
+      "element": "Earth"
+    }
+  ],
+  "ハイラ": [
+    {
+      "name": "Payila",
+      "jpname": "ハイラ",
+      "id": "3040502000",
+      "element": "Water"
+    },
+    {
+      "name": "Payila",
+      "jpname": "ハイラ",
+      "id": "3020075000",
+      "element": "Water"
+    }
+  ],
+  "ペコリーヌ": [
+    {
+      "name": "Pecorine",
+      "jpname": "ペコリーヌ",
+      "id": "3040200000",
+      "element": "Light"
+    }
+  ],
+  "ペンギー": [
+    {
+      "name": "Pengy",
+      "jpname": "ペンギー",
+      "id": "3040282000",
+      "element": "Earth"
+    },
+    {
+      "name": "Pengy",
+      "jpname": "ペンギー",
+      "id": "3030073000",
+      "element": "Water"
+    },
+    {
+      "name": "Pengy",
+      "jpname": "ペンギー",
+      "id": "3030153000",
+      "element": "Water"
+    }
+  ],
+  "パーシヴァル": [
+    {
+      "name": "Percival",
+      "jpname": "パーシヴァル",
+      "id": "3040050000",
+      "element": "Fire"
+    },
+    {
+      "name": "Percival",
+      "jpname": "パーシヴァル",
+      "id": "3040090000",
+      "element": "Fire"
+    },
+    {
+      "name": "Percival",
+      "jpname": "パーシヴァル",
+      "id": "3040279000",
+      "element": "Light"
+    },
+    {
+      "name": "Percival",
+      "jpname": "パーシヴァル",
+      "id": "3040425000",
+      "element": "Fire"
+    },
+    {
+      "name": "Percival",
+      "jpname": "パーシヴァル",
+      "id": "3030168000",
+      "element": "Fire"
+    }
+  ],
+  "ペトラ": [
+    {
+      "name": "Petra",
+      "jpname": "ペトラ",
+      "id": "3040047000",
+      "element": "Wind"
+    },
+    {
+      "name": "Petra",
+      "jpname": "ペトラ",
+      "id": "3020011000",
+      "element": "Wind"
+    }
+  ],
+  "フォリア": [
+    {
+      "name": "Pholia",
+      "jpname": "フォリア",
+      "id": "3040181000",
+      "element": "Water"
+    },
+    {
+      "name": "Pholia",
+      "jpname": "フォリア",
+      "id": "3040469000",
+      "element": "Earth"
+    }
+  ],
+  "ピィジウ": [
+    {
+      "name": "Pijiu",
+      "jpname": "ピィジウ",
+      "id": "3040587000",
+      "element": "Light"
+    }
+  ],
+  "ポチャッコ": [
+    {
+      "name": "Pochacco",
+      "jpname": "ポチャッコ",
+      "id": "3040522000",
+      "element": "Wind"
+    }
+  ],
+  "ポセイドン": [
+    {
+      "name": "Poseidon",
+      "jpname": "ポセイドン",
+      "id": "3040348000",
+      "element": "Water"
+    }
+  ],
+  "プレデター": [
+    {
+      "name": "Predator",
+      "jpname": "プレデター",
+      "id": "3040278000",
+      "element": "Dark"
+    },
+    {
+      "name": "Predator",
+      "jpname": "プレデター",
+      "id": "3030190000",
+      "element": "Dark"
+    }
+  ],
+  "プリッシュ": [
+    {
+      "name": "Prishe",
+      "jpname": "プリッシュ",
+      "id": "3040400000",
+      "element": "Light"
+    }
+  ],
+  "ラカム": [
+    {
+      "name": "Rackam",
+      "jpname": "ラカム",
+      "id": "3040059000",
+      "element": "Fire"
+    },
+    {
+      "name": "Rackam",
+      "jpname": "ラカム",
+      "id": "3030008000",
+      "element": "Fire"
+    },
+    {
+      "name": "Rackam",
+      "jpname": "ラカム",
+      "id": "3030048000",
+      "element": "Earth"
+    }
+  ],
+  "ラガッツォ": [
+    {
+      "name": "Ragazzo",
+      "jpname": "ラガッツォ",
+      "id": "3040481000",
+      "element": "Fire"
+    },
+    {
+      "name": "Ragazzo",
+      "jpname": "ラガッツォ",
+      "id": "3040542000",
+      "element": "Light"
+    }
+  ],
+  "ランドル": [
+    {
+      "name": "Randall",
+      "jpname": "ランドル",
+      "id": "3040368000",
+      "element": "Wind"
+    },
+    {
+      "name": "Randall",
+      "jpname": "ランドル",
+      "id": "3030234000",
+      "element": "Dark"
+    },
+    {
+      "name": "Randall",
+      "jpname": "ランドル",
+      "id": "3020070000",
+      "element": "Water"
+    }
+  ],
+  "ラファエル": [
+    {
+      "name": "Raphael",
+      "jpname": "ラファエル",
+      "id": "3040568000",
+      "element": "Wind"
+    }
+  ],
+  "ラスティナ": [
+    {
+      "name": "Razia",
+      "jpname": "ラスティナ",
+      "id": "3040109000",
+      "element": "Earth"
+    },
+    {
+      "name": "Razia",
+      "jpname": "ラスティナ",
+      "id": "3030257000",
+      "element": "Earth"
+    }
+  ],
+  "ラジエル": [
+    {
+      "name": "Raziel",
+      "jpname": "ラジエル",
+      "id": "3040516000",
+      "element": "Light"
+    },
+    {
+      "name": "Raziel",
+      "jpname": "ラジエル",
+      "id": "3040538000",
+      "element": "Earth"
+    }
+  ],
+  "レイ": [
+    {
+      "name": "Rei",
+      "jpname": "レイ",
+      "id": "3040265000",
+      "element": "Dark"
+    }
+  ],
+  "レイ＆零号機": [
+    {
+      "name": "Rei & Unit 00",
+      "jpname": "レイ＆零号機",
+      "id": "3040623000",
+      "element": "Water"
+    }
+  ],
+  "ラインハルザ": [
+    {
+      "name": "Reinhardtzar",
+      "jpname": "ラインハルザ",
+      "id": "3040274000",
+      "element": "Fire"
+    },
+    {
+      "name": "Reinhardtzar",
+      "jpname": "ラインハルザ",
+      "id": "3040626000",
+      "element": "Earth"
+    },
+    {
+      "name": "Reinhardtzar",
+      "jpname": "ラインハルザ",
+      "id": "3030208000",
+      "element": "Fire"
+    }
+  ],
+  "リチャード": [
+    {
+      "name": "Richard",
+      "jpname": "リチャード",
+      "id": "3040513000",
+      "element": "Wind"
+    },
+    {
+      "name": "Richard",
+      "jpname": "リチャード",
+      "id": "3030267000",
+      "element": "Dark"
+    },
+    {
+      "name": "Richard",
+      "jpname": "リチャード",
+      "id": "3020014000",
+      "element": "Water"
+    }
+  ],
+  "リムル＝テンペスト": [
+    {
+      "name": "Rimuru Tempest",
+      "jpname": "リムル＝テンペスト",
+      "id": "3040558000",
+      "element": "Dark"
+    }
+  ],
+  "ロベルティナ": [
+    {
+      "name": "Robertina",
+      "jpname": "ロベルティナ",
+      "id": "3040510000",
+      "element": "Light"
+    },
+    {
+      "name": "Robertina",
+      "jpname": "ロベルティナ",
+      "id": "3030144000",
+      "element": "Wind"
+    }
+  ],
+  "ロボミ": [
+    {
+      "name": "Robomi",
+      "jpname": "ロボミ",
+      "id": "3040155000",
+      "element": "Light"
+    },
+    {
+      "name": "Robomi",
+      "jpname": "ロボミ",
+      "id": "3030079000",
+      "element": "Light"
+    }
+  ],
+  "ロミオ": [
+    {
+      "name": "Romeo",
+      "jpname": "ロミオ",
+      "id": "3040098000",
+      "element": "Water"
+    },
+    {
+      "name": "Romeo",
+      "jpname": "ロミオ",
+      "id": "3030077000",
+      "element": "Water"
+    }
+  ],
+  "ロザミア": [
+    {
+      "name": "Rosamia",
+      "jpname": "ロザミア",
+      "id": "3040087000",
+      "element": "Light"
+    },
+    {
+      "name": "Rosamia",
+      "jpname": "ロザミア",
+      "id": "3040289000",
+      "element": "Light"
+    },
+    {
+      "name": "Rosamia",
+      "jpname": "ロザミア",
+      "id": "3030049000",
+      "element": "Light"
+    },
+    {
+      "name": "Rosamia",
+      "jpname": "ロザミア",
+      "id": "3020018000",
+      "element": "Light"
+    }
+  ],
+  "ロゼッタ": [
+    {
+      "name": "Rosetta",
+      "jpname": "ロゼッタ",
+      "id": "3040026000",
+      "element": "Dark"
+    },
+    {
+      "name": "Rosetta",
+      "jpname": "ロゼッタ",
+      "id": "3040068000",
+      "element": "Wind"
+    },
+    {
+      "name": "Rosetta",
+      "jpname": "ロゼッタ",
+      "id": "3040176000",
+      "element": "Earth"
+    },
+    {
+      "name": "Rosetta",
+      "jpname": "ロゼッタ",
+      "id": "3040301000",
+      "element": "Water"
+    },
+    {
+      "name": "Rosetta",
+      "jpname": "ロゼッタ",
+      "id": "3030010000",
+      "element": "Wind"
+    }
+  ],
+  "サブリナ": [
+    {
+      "name": "Sabrina",
+      "jpname": "サブリナ",
+      "id": "3040514000",
+      "element": "Earth"
+    }
+  ],
+  "木之本桜": [
+    {
+      "name": "Sakura Kinomoto",
+      "jpname": "木之本桜",
+      "id": "3040136000",
+      "element": "Light"
+    }
+  ],
+  "サンダルフォン": [
+    {
+      "name": "Sandalphon",
+      "jpname": "サンダルフォン",
+      "id": "3040153000",
+      "element": "Light"
+    },
+    {
+      "name": "Sandalphon",
+      "jpname": "サンダルフォン",
+      "id": "3040224000",
+      "element": "Water"
+    },
+    {
+      "name": "Sandalphon",
+      "jpname": "サンダルフォン",
+      "id": "3040312000",
+      "element": "Earth"
+    },
+    {
+      "name": "Sandalphon",
+      "jpname": "サンダルフォン",
+      "id": "3040447000",
+      "element": "Wind"
+    },
+    {
+      "name": "Sandalphon",
+      "jpname": "サンダルフォン",
+      "id": "3040515000",
+      "element": "Light"
+    }
+  ],
+  "サンチラ": [
+    {
+      "name": "Sandira",
+      "jpname": "サンチラ",
+      "id": "3040633000",
+      "element": "Fire"
+    }
+  ],
+  "サラ": [
+    {
+      "name": "Sara",
+      "jpname": "サラ",
+      "id": "3040041000",
+      "element": "Earth"
+    },
+    {
+      "name": "Sara",
+      "jpname": "サラ",
+      "id": "3040236000",
+      "element": "Light"
+    },
+    {
+      "name": "Sara",
+      "jpname": "サラ",
+      "id": "3030021000",
+      "element": "Earth"
+    },
+    {
+      "name": "Sara",
+      "jpname": "サラ",
+      "id": "3030147000",
+      "element": "Earth"
+    }
+  ],
+  "サリエル": [
+    {
+      "name": "Sariel",
+      "jpname": "サリエル",
+      "id": "3040611000",
+      "element": "Dark"
+    }
+  ],
+  "サルナーン": [
+    {
+      "name": "Sarunan",
+      "jpname": "サルナーン",
+      "id": "3040008000",
+      "element": "Light"
+    },
+    {
+      "name": "Sarunan",
+      "jpname": "サルナーン",
+      "id": "3040048000",
+      "element": "Dark"
+    }
+  ],
+  "さと": [
+    {
+      "name": "Sato",
+      "jpname": "さと",
+      "id": "3040533000",
+      "element": "Fire"
+    }
+  ],
+  "サテュロス": [
+    {
+      "name": "Satyr",
+      "jpname": "サテュロス",
+      "id": "3040280000",
+      "element": "Fire"
+    },
+    {
+      "name": "Satyr",
+      "jpname": "サテュロス",
+      "id": "3040375000",
+      "element": "Earth"
+    },
+    {
+      "name": "Satyr",
+      "jpname": "サテュロス",
+      "id": "3040554000",
+      "element": "Dark"
+    }
+  ],
+  "スカーサハ": [
+    {
+      "name": "Scathacha",
+      "jpname": "スカーサハ",
+      "id": "3040122000",
+      "element": "Wind"
+    },
+    {
+      "name": "Scathacha",
+      "jpname": "スカーサハ",
+      "id": "3040260000",
+      "element": "Fire"
+    }
+  ],
+  "セレフィラ": [
+    {
+      "name": "Selfira",
+      "jpname": "セレフィラ",
+      "id": "3040175000",
+      "element": "Wind"
+    },
+    {
+      "name": "Selfira",
+      "jpname": "セレフィラ",
+      "id": "3030026000",
+      "element": "Wind"
+    }
+  ],
+  "セン": [
+    {
+      "name": "Sen",
+      "jpname": "セン",
+      "id": "3040204000",
+      "element": "Wind"
+    },
+    {
+      "name": "Sen",
+      "jpname": "セン",
+      "id": "3040448000",
+      "element": "Water"
+    },
+    {
+      "name": "Sen",
+      "jpname": "セン",
+      "id": "3030127000",
+      "element": "Fire"
+    },
+    {
+      "name": "Sen",
+      "jpname": "セン",
+      "id": "3030169000",
+      "element": "Wind"
+    }
+  ],
+  "シエテ": [
+    {
+      "name": "Seofon",
+      "jpname": "シエテ",
+      "id": "3040036000",
+      "element": "Wind"
+    },
+    {
+      "name": "Seofon",
+      "jpname": "シエテ",
+      "id": "3040451000",
+      "element": "Wind"
+    },
+    {
+      "name": "Seofon",
+      "jpname": "シエテ",
+      "id": "3040586000",
+      "element": "Dark"
+    }
+  ],
+  "シス": [
+    {
+      "name": "Seox",
+      "jpname": "シス",
+      "id": "3040035000",
+      "element": "Dark"
+    },
+    {
+      "name": "Seox",
+      "jpname": "シス",
+      "id": "3040262000",
+      "element": "Dark"
+    }
+  ],
+  "セルエル": [
+    {
+      "name": "Seruel",
+      "jpname": "セルエル",
+      "id": "3040013000",
+      "element": "Light"
+    },
+    {
+      "name": "Seruel",
+      "jpname": "セルエル",
+      "id": "3040250000",
+      "element": "Wind"
+    },
+    {
+      "name": "Seruel",
+      "jpname": "セルエル",
+      "id": "3040480000",
+      "element": "Light"
+    }
+  ],
+  "桜咲刹那": [
+    {
+      "name": "Setsuna Sakurazaki",
+      "jpname": "桜咲刹那",
+      "id": "3040576000",
+      "element": "Wind"
+    }
+  ],
+  "セワスチアン": [
+    {
+      "name": "Sevastien",
+      "jpname": "セワスチアン",
+      "id": "3040548000",
+      "element": "Dark"
+    },
+    {
+      "name": "Sevastien",
+      "jpname": "セワスチアン",
+      "id": "3030191000",
+      "element": "Wind"
+    }
+  ],
+  "サビルバラ": [
+    {
+      "name": "Sevilbarra",
+      "jpname": "サビルバラ",
+      "id": "3040490000",
+      "element": "Fire"
+    },
+    {
+      "name": "Sevilbarra",
+      "jpname": "サビルバラ",
+      "id": "3030118000",
+      "element": "Wind"
+    },
+    {
+      "name": "Sevilbarra",
+      "jpname": "サビルバラ",
+      "id": "3030258000",
+      "element": "Light"
+    }
+  ],
+  "シンジ＆初号機": [
+    {
+      "name": "Shinji & Unit 01",
+      "jpname": "シンジ＆初号機",
+      "id": "3040622000",
+      "element": "Light"
+    }
+  ],
+  "胡蝶しのぶ": [
+    {
+      "name": "Shinobu Kocho",
+      "jpname": "胡蝶しのぶ",
+      "id": "3040310000",
+      "element": "Wind"
+    }
+  ],
+  "真選組 土方十四郎&沖田総悟": [
+    {
+      "name": "Shinsengumi",
+      "jpname": "真選組 土方十四郎&沖田総悟",
+      "id": "3040362000",
+      "element": "Fire"
+    }
+  ],
+  "シオン": [
+    {
+      "name": "Shion",
+      "jpname": "シオン",
+      "id": "3040333000",
+      "element": "Fire"
+    },
+    {
+      "name": "Shion",
+      "jpname": "シオン",
+      "id": "3040410000",
+      "element": "Wind"
+    },
+    {
+      "name": "Shion",
+      "jpname": "シオン",
+      "id": "3040560000",
+      "element": "Dark"
+    }
+  ],
+  "シトリ": [
+    {
+      "name": "Shitori",
+      "jpname": "シトリ",
+      "id": "3040244000",
+      "element": "Light"
+    }
+  ],
+  "シヴァ": [
+    {
+      "name": "Shiva",
+      "jpname": "シヴァ",
+      "id": "3040196000",
+      "element": "Fire"
+    },
+    {
+      "name": "Shiva",
+      "jpname": "シヴァ",
+      "id": "3040352000",
+      "element": "Light"
+    }
+  ],
+  "ショウ": [
+    {
+      "name": "Sho",
+      "jpname": "ショウ",
+      "id": "3040338000",
+      "element": "Wind"
+    }
+  ],
+  "シュクラ": [
+    {
+      "name": "Shukra",
+      "jpname": "シュクラ",
+      "id": "3040589000",
+      "element": "Water"
+    }
+  ],
+  "シュラ": [
+    {
+      "name": "Shura",
+      "jpname": "シュラ",
+      "id": "3040273000",
+      "element": "Water"
+    }
+  ],
+  "シュシュク": [
+    {
+      "name": "Shushuku",
+      "jpname": "シュシュク",
+      "id": "3040527000",
+      "element": "Earth"
+    }
+  ],
+  "ジークフリート": [
+    {
+      "name": "Siegfried",
+      "jpname": "ジークフリート",
+      "id": "3040025000",
+      "element": "Earth"
+    },
+    {
+      "name": "Siegfried",
+      "jpname": "ジークフリート",
+      "id": "3040128000",
+      "element": "Wind"
+    },
+    {
+      "name": "Siegfried",
+      "jpname": "ジークフリート",
+      "id": "3040237000",
+      "element": "Fire"
+    },
+    {
+      "name": "Siegfried",
+      "jpname": "ジークフリート",
+      "id": "3040344000",
+      "element": "Water"
+    },
+    {
+      "name": "Siegfried",
+      "jpname": "ジークフリート",
+      "id": "3040485000",
+      "element": "Light"
+    },
+    {
+      "name": "Siegfried",
+      "jpname": "ジークフリート",
+      "id": "3040595000",
+      "element": "Earth"
+    }
+  ],
+  "シルヴァ": [
+    {
+      "name": "Silva",
+      "jpname": "シルヴァ",
+      "id": "3040049000",
+      "element": "Water"
+    },
+    {
+      "name": "Silva",
+      "jpname": "シルヴァ",
+      "id": "3040187000",
+      "element": "Light"
+    },
+    {
+      "name": "Silva",
+      "jpname": "シルヴァ",
+      "id": "3040291000",
+      "element": "Earth"
+    },
+    {
+      "name": "Silva",
+      "jpname": "シルヴァ",
+      "id": "3040391000",
+      "element": "Fire"
+    }
+  ],
+  "スクルド": [
+    {
+      "name": "Skuld",
+      "jpname": "スクルド",
+      "id": "3040596000",
+      "element": "Wind"
+    }
+  ],
+  "自由を謳う漢達 スカル＆バルルガン": [
+    {
+      "name": "Skull and Balurga",
+      "jpname": "自由を謳う漢達 スカル＆バルルガン",
+      "id": "3040396000",
+      "element": "Earth"
+    }
+  ],
+  "ソシエ": [
+    {
+      "name": "Societte",
+      "jpname": "ソシエ",
+      "id": "3040044000",
+      "element": "Water"
+    },
+    {
+      "name": "Societte",
+      "jpname": "ソシエ",
+      "id": "3040095000",
+      "element": "Fire"
+    },
+    {
+      "name": "Societte",
+      "jpname": "ソシエ",
+      "id": "3040241000",
+      "element": "Wind"
+    }
+  ],
+  "ソフィア": [
+    {
+      "name": "Sophia",
+      "jpname": "ソフィア",
+      "id": "3040024000",
+      "element": "Light"
+    },
+    {
+      "name": "Sophia",
+      "jpname": "ソフィア",
+      "id": "3040397000",
+      "element": "Water"
+    },
+    {
+      "name": "Sophia",
+      "jpname": "ソフィア",
+      "id": "3030225000",
+      "element": "Light"
+    }
+  ],
+  "ソリッズ": [
+    {
+      "name": "Soriz",
+      "jpname": "ソリッズ",
+      "id": "3040170000",
+      "element": "Earth"
+    },
+    {
+      "name": "Soriz",
+      "jpname": "ソリッズ",
+      "id": "3030020000",
+      "element": "Earth"
+    },
+    {
+      "name": "Soriz",
+      "jpname": "ソリッズ",
+      "id": "3030117000",
+      "element": "Light"
+    }
+  ],
+  "スペシャルウィーク＆サイレンススズカ＆トウカイテイオー": [
+    {
+      "name": "Special Week, Silence Suzuka, and Tokai Teio",
+      "jpname": "スペシャルウィーク＆サイレンススズカ＆トウカイテイオー",
+      "id": "3040353000",
+      "element": "Earth"
+    }
+  ],
+  "スピナー": [
+    {
+      "name": "Spinnah",
+      "jpname": "スピナー",
+      "id": "3040523000",
+      "element": "Wind"
+    },
+    {
+      "name": "Spinnah",
+      "jpname": "スピナー",
+      "id": "3030322000",
+      "element": "Wind"
+    },
+    {
+      "name": "Spinnah",
+      "jpname": "スピナー",
+      "id": "3020071000",
+      "element": "Wind"
+    }
+  ],
+  "勇者と姫君 スタン＆アリーザ": [
+    {
+      "name": "Stan and Aliza",
+      "jpname": "勇者と姫君 スタン＆アリーザ",
+      "id": "3040233000",
+      "element": "Wind"
+    }
+  ],
+  "スツルム": [
+    {
+      "name": "Sturm",
+      "jpname": "スツルム",
+      "id": "3040115000",
+      "element": "Fire"
+    },
+    {
+      "name": "Sturm",
+      "jpname": "スツルム",
+      "id": "3040268000",
+      "element": "Water"
+    },
+    {
+      "name": "Sturm",
+      "jpname": "スツルム",
+      "id": "3040415000",
+      "element": "Light"
+    }
+  ],
+  "スイ": [
+    {
+      "name": "Sui",
+      "jpname": "スイ",
+      "id": "3040531000",
+      "element": "Light"
+    }
+  ],
+  "スーテラ": [
+    {
+      "name": "Sutera",
+      "jpname": "スーテラ",
+      "id": "3040303000",
+      "element": "Wind"
+    },
+    {
+      "name": "Sutera",
+      "jpname": "スーテラ",
+      "id": "3030018000",
+      "element": "Wind"
+    },
+    {
+      "name": "Sutera",
+      "jpname": "スーテラ",
+      "id": "3030113000",
+      "element": "Fire"
+    },
+    {
+      "name": "Sutera",
+      "jpname": "スーテラ",
+      "id": "3030187000",
+      "element": "Fire"
+    }
+  ],
+  "枢木スザク": [
+    {
+      "name": "Suzaku Kururugi",
+      "jpname": "枢木スザク",
+      "id": "3040220000",
+      "element": "Wind"
+    }
+  ],
+  "シルフ": [
+    {
+      "name": "Sylph",
+      "jpname": "シルフ",
+      "id": "3040388000",
+      "element": "Fire"
+    }
+  ],
+  "シルヴィア": [
+    {
+      "name": "Sylvia",
+      "jpname": "シルヴィア",
+      "id": "3040613000",
+      "element": "Water"
+    }
+  ],
+  "タヴィーナ": [
+    {
+      "name": "Tabina",
+      "jpname": "タヴィーナ",
+      "id": "3040234000",
+      "element": "Fire"
+    },
+    {
+      "name": "Tabina",
+      "jpname": "タヴィーナ",
+      "id": "3040350000",
+      "element": "Dark"
+    }
+  ],
+  "竈門炭治郎＆竈門禰豆子＆我妻善逸＆嘴平伊之助": [
+    {
+      "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
+      "jpname": "竈門炭治郎＆竈門禰豆子＆我妻善逸＆嘴平伊之助",
+      "id": "3040308000",
+      "element": "Water"
+    }
+  ],
+  "ターニャ": [
+    {
+      "name": "Tanya",
+      "jpname": "ターニャ",
+      "id": "3040203000",
+      "element": "Dark"
+    },
+    {
+      "name": "Tanya",
+      "jpname": "ターニャ",
+      "id": "3030084000",
+      "element": "Dark"
+    },
+    {
+      "name": "Tanya",
+      "jpname": "ターニャ",
+      "id": "3030167000",
+      "element": "Dark"
+    },
+    {
+      "name": "Tanya",
+      "jpname": "ターニャ",
+      "id": "3020015000",
+      "element": "Dark"
+    }
+  ],
+  "ティナ": [
+    {
+      "name": "Teena",
+      "jpname": "ティナ",
+      "id": "3040266000",
+      "element": "Fire"
+    },
+    {
+      "name": "Teena",
+      "jpname": "ティナ",
+      "id": "3030034000",
+      "element": "Fire"
+    },
+    {
+      "name": "Teena",
+      "jpname": "ティナ",
+      "id": "3030236000",
+      "element": "Fire"
+    }
+  ],
+  "テフヌト": [
+    {
+      "name": "Tefnut",
+      "jpname": "テフヌト",
+      "id": "3040537000",
+      "element": "Water"
+    }
+  ],
+  "テレーズ": [
+    {
+      "name": "Therese",
+      "jpname": "テレーズ",
+      "id": "3040149000",
+      "element": "Fire"
+    },
+    {
+      "name": "Therese",
+      "jpname": "テレーズ",
+      "id": "3040433000",
+      "element": "Wind"
+    },
+    {
+      "name": "Therese",
+      "jpname": "テレーズ",
+      "id": "3030001000",
+      "element": "Water"
+    },
+    {
+      "name": "Therese",
+      "jpname": "テレーズ",
+      "id": "3030062000",
+      "element": "Fire"
+    }
+  ],
+  "サラーサ": [
+    {
+      "name": "Threo",
+      "jpname": "サラーサ",
+      "id": "3040032000",
+      "element": "Earth"
+    }
+  ],
+  "ティアマト": [
+    {
+      "name": "Tiamat",
+      "jpname": "ティアマト",
+      "id": "3040152000",
+      "element": "Wind"
+    }
+  ],
+  "エッセル": [
+    {
+      "name": "Tien",
+      "jpname": "エッセル",
+      "id": "3040039000",
+      "element": "Fire"
+    },
+    {
+      "name": "Tien",
+      "jpname": "エッセル",
+      "id": "3040619000",
+      "element": "Water"
+    }
+  ],
+  "ティコ": [
+    {
+      "name": "Tikoh",
+      "jpname": "ティコ",
+      "id": "3040337000",
+      "element": "Light"
+    },
+    {
+      "name": "Tikoh",
+      "jpname": "ティコ",
+      "id": "3040414000",
+      "element": "Earth"
+    },
+    {
+      "name": "Tikoh",
+      "jpname": "ティコ",
+      "id": "3040487000",
+      "element": "Dark"
+    }
+  ],
+  "トルー": [
+    {
+      "name": "Troue",
+      "jpname": "トルー",
+      "id": "3040336000",
+      "element": "Water"
+    }
+  ],
+  "ツバサ": [
+    {
+      "name": "Tsubasa",
+      "jpname": "ツバサ",
+      "id": "3040180000",
+      "element": "Fire"
+    }
+  ],
+  "ツクヨミ": [
+    {
+      "name": "Tsukuyomi",
+      "jpname": "ツクヨミ",
+      "id": "3040581000",
+      "element": "Dark"
+    }
+  ],
+  "ソーン": [
+    {
+      "name": "Tweyen",
+      "jpname": "ソーン",
+      "id": "3040031000",
+      "element": "Light"
+    },
+    {
+      "name": "Tweyen",
+      "jpname": "ソーン",
+      "id": "3040541000",
+      "element": "Fire"
+    }
+  ],
+  "ティラ": [
+    {
+      "name": "Tyra",
+      "jpname": "ティラ",
+      "id": "3040503000",
+      "element": "Dark"
+    }
+  ],
+  "Ｕ・フライデー": [
+    {
+      "name": "Ultimate Friday",
+      "jpname": "Ｕ・フライデー",
+      "id": "3040442000",
+      "element": "Wind"
+    }
+  ],
+  "ウリエル": [
+    {
+      "name": "Uriel",
+      "jpname": "ウリエル",
+      "id": "3040501000",
+      "element": "Earth"
+    }
+  ],
+  "ウルキ": [
+    {
+      "name": "Uruki",
+      "jpname": "ウルキ",
+      "id": "3040526000",
+      "element": "Water"
+    }
+  ],
+  "ウツセミ": [
+    {
+      "name": "Utsusemi",
+      "jpname": "ウツセミ",
+      "id": "3040491000",
+      "element": "Light"
+    }
+  ],
+  "ヴァジラ": [
+    {
+      "name": "Vajra",
+      "jpname": "ヴァジラ",
+      "id": "3040147000",
+      "element": "Water"
+    },
+    {
+      "name": "Vajra",
+      "jpname": "ヴァジラ",
+      "id": "3040407000",
+      "element": "Dark"
+    },
+    {
+      "name": "Vajra",
+      "jpname": "ヴァジラ",
+      "id": "3040617000",
+      "element": "Light"
+    }
+  ],
+  "ヴェイン": [
+    {
+      "name": "Vane",
+      "jpname": "ヴェイン",
+      "id": "3040117000",
+      "element": "Water"
+    },
+    {
+      "name": "Vane",
+      "jpname": "ヴェイン",
+      "id": "3040360000",
+      "element": "Wind"
+    },
+    {
+      "name": "Vane",
+      "jpname": "ヴェイン",
+      "id": "3040551000",
+      "element": "Wind"
+    },
+    {
+      "name": "Vane",
+      "jpname": "ヴェイン",
+      "id": "3030047000",
+      "element": "Water"
+    },
+    {
+      "name": "Vane",
+      "jpname": "ヴェイン",
+      "id": "3030107000",
+      "element": "Water"
+    }
+  ],
+  "ヴァンピィ": [
+    {
+      "name": "Vania",
+      "jpname": "ヴァンピィ",
+      "id": "3040057000",
+      "element": "Dark"
+    },
+    {
+      "name": "Vania",
+      "jpname": "ヴァンピィ",
+      "id": "3040478000",
+      "element": "Wind"
+    },
+    {
+      "name": "Vania",
+      "jpname": "ヴァンピィ",
+      "id": "3030221000",
+      "element": "Dark"
+    }
+  ],
+  "飛竜と吸血姫 ヴァンピィ＆ベス": [
+    {
+      "name": "Vania and Malinda",
+      "jpname": "飛竜と吸血姫 ヴァンピィ＆ベス",
+      "id": "3040264000",
+      "element": "Water"
+    }
+  ],
+  "バザラガ": [
+    {
+      "name": "Vaseraga",
+      "jpname": "バザラガ",
+      "id": "3040029000",
+      "element": "Dark"
+    },
+    {
+      "name": "Vaseraga",
+      "jpname": "バザラガ",
+      "id": "3040146000",
+      "element": "Earth"
+    },
+    {
+      "name": "Vaseraga",
+      "jpname": "バザラガ",
+      "id": "3040324000",
+      "element": "Fire"
+    },
+    {
+      "name": "Vaseraga",
+      "jpname": "バザラガ",
+      "id": "3040471000",
+      "element": "Water"
+    }
+  ],
+  "ヴァイト": [
+    {
+      "name": "Veight",
+      "jpname": "ヴァイト",
+      "id": "3040094000",
+      "element": "Dark"
+    },
+    {
+      "name": "Veight",
+      "jpname": "ヴァイト",
+      "id": "3040532000",
+      "element": "Wind"
+    }
+  ],
+  "ヴェルドラ＝テンペスト": [
+    {
+      "name": "Veldora Tempest",
+      "jpname": "ヴェルドラ＝テンペスト",
+      "id": "3040559000",
+      "element": "Wind"
+    }
+  ],
+  "ビカラ": [
+    {
+      "name": "Vikala",
+      "jpname": "ビカラ",
+      "id": "3040252000",
+      "element": "Dark"
+    },
+    {
+      "name": "Vikala",
+      "jpname": "ビカラ",
+      "id": "3040408000",
+      "element": "Earth"
+    },
+    {
+      "name": "Vikala",
+      "jpname": "ビカラ",
+      "id": "3040488000",
+      "element": "Water"
+    },
+    {
+      "name": "Vikala",
+      "jpname": "ビカラ",
+      "id": "3040585000",
+      "element": "Light"
+    },
+    {
+      "name": "Vikala",
+      "jpname": "ビカラ",
+      "id": "3020073000",
+      "element": "dark"
+    }
+  ],
+  "ヴィーラ": [
+    {
+      "name": "Vira",
+      "jpname": "ヴィーラ",
+      "id": "3040043000",
+      "element": "Dark"
+    },
+    {
+      "name": "Vira",
+      "jpname": "ヴィーラ",
+      "id": "3040053000",
+      "element": "Earth"
+    },
+    {
+      "name": "Vira",
+      "jpname": "ヴィーラ",
+      "id": "3040141000",
+      "element": "Light"
+    },
+    {
+      "name": "Vira",
+      "jpname": "ヴィーラ",
+      "id": "3040211000",
+      "element": "Wind"
+    },
+    {
+      "name": "Vira",
+      "jpname": "ヴィーラ",
+      "id": "3040243000",
+      "element": "Fire"
+    },
+    {
+      "name": "Vira",
+      "jpname": "ヴィーラ",
+      "id": "3040385000",
+      "element": "Fire"
+    },
+    {
+      "name": "Vira",
+      "jpname": "ヴィーラ",
+      "id": "3030019000",
+      "element": "Dark"
+    }
+  ],
+  "ボレミア": [
+    {
+      "name": "Volenna",
+      "jpname": "ボレミア",
+      "id": "3040494000",
+      "element": "Light"
+    },
+    {
+      "name": "Volenna",
+      "jpname": "ボレミア",
+      "id": "3030056000",
+      "element": "Earth"
+    },
+    {
+      "name": "Volenna",
+      "jpname": "ボレミア",
+      "id": "3020007000",
+      "element": "Earth"
+    }
+  ],
+  "ヴァルフリート": [
+    {
+      "name": "Walfrid",
+      "jpname": "ヴァルフリート",
+      "id": "3040641000",
+      "element": "Wind"
+    }
+  ],
+  "ワムデュス": [
+    {
+      "name": "Wamdus",
+      "jpname": "ワムデュス",
+      "id": "3040419000",
+      "element": "Water"
+    },
+    {
+      "name": "Wamdus",
+      "jpname": "ワムデュス",
+      "id": "3040562000",
+      "element": "Fire"
+    },
+    {
+      "name": "Wamdus",
+      "jpname": "ワムデュス",
+      "id": "3040639000",
+      "element": "Dark"
+    }
+  ],
+  "ウィル": [
+    {
+      "name": "Will",
+      "jpname": "ウィル",
+      "id": "3040557000",
+      "element": "Dark"
+    },
+    {
+      "name": "Will",
+      "jpname": "ウィル",
+      "id": "3030092000",
+      "element": "Dark"
+    },
+    {
+      "name": "Will",
+      "jpname": "ウィル",
+      "id": "3020010000",
+      "element": "Dark"
+    }
+  ],
+  "ウィルナス": [
+    {
+      "name": "Wilnas",
+      "jpname": "ウィルナス",
+      "id": "3040381000",
+      "element": "Fire"
+    },
+    {
+      "name": "Wilnas",
+      "jpname": "ウィルナス",
+      "id": "3040553000",
+      "element": "Light"
+    }
+  ],
+  "ウーフとレニー": [
+    {
+      "name": "Wulf and Renie",
+      "jpname": "ウーフとレニー",
+      "id": "3040174000",
+      "element": "Dark"
+    },
+    {
+      "name": "Wulf and Renie",
+      "jpname": "ウーフとレニー",
+      "id": "3030321000",
+      "element": "Dark"
+    }
+  ],
+  "ヤイア": [
+    {
+      "name": "Yaia",
+      "jpname": "ヤイア",
+      "id": "3040458000",
+      "element": "Earth"
+    },
+    {
+      "name": "Yaia",
+      "jpname": "ヤイア",
+      "id": "3030111000",
+      "element": "Earth"
+    },
+    {
+      "name": "Yaia",
+      "jpname": "ヤイア",
+      "id": "3030259000",
+      "element": "Wind"
+    }
+  ],
+  "ヤチマ": [
+    {
+      "name": "Yatima",
+      "jpname": "ヤチマ",
+      "id": "3040566000",
+      "element": "Water"
+    }
+  ],
+  "ユグドラシル": [
+    {
+      "name": "Yggdrasil",
+      "jpname": "ユグドラシル",
+      "id": "3040125000",
+      "element": "Earth"
+    },
+    {
+      "name": "Yggdrasil",
+      "jpname": "ユグドラシル",
+      "id": "3040380000",
+      "element": "Wind"
+    },
+    {
+      "name": "Yggdrasil",
+      "jpname": "ユグドラシル",
+      "id": "3040563000",
+      "element": "Dark"
+    }
+  ],
+  "イングヴェイ": [
+    {
+      "name": "Yngwie",
+      "jpname": "イングヴェイ",
+      "id": "3040088000",
+      "element": "Water"
+    },
+    {
+      "name": "Yngwie",
+      "jpname": "イングヴェイ",
+      "id": "3040342000",
+      "element": "Wind"
+    }
+  ],
+  "ヨダルラーハ": [
+    {
+      "name": "Yodarha",
+      "jpname": "ヨダルラーハ",
+      "id": "3040064000",
+      "element": "Water"
+    },
+    {
+      "name": "Yodarha",
+      "jpname": "ヨダルラーハ",
+      "id": "3040259000",
+      "element": "Wind"
+    },
+    {
+      "name": "Yodarha",
+      "jpname": "ヨダルラーハ",
+      "id": "3020030000",
+      "element": "Water"
+    }
+  ],
+  "万事屋銀ちゃん 坂田銀時&志村新八&神楽": [
+    {
+      "name": "Yorozuya",
+      "jpname": "万事屋銀ちゃん 坂田銀時&志村新八&神楽",
+      "id": "3040363000",
+      "element": "Light"
+    }
+  ],
+  "ヨウ": [
+    {
+      "name": "You",
+      "jpname": "ヨウ",
+      "id": "3040393000",
+      "element": "Light"
+    },
+    {
+      "name": "You",
+      "jpname": "ヨウ",
+      "id": "3030277000",
+      "element": "Dark"
+    }
+  ],
+  "ユエル": [
+    {
+      "name": "Yuel",
+      "jpname": "ユエル",
+      "id": "3040006000",
+      "element": "Fire"
+    },
+    {
+      "name": "Yuel",
+      "jpname": "ユエル",
+      "id": "3040138000",
+      "element": "Water"
+    },
+    {
+      "name": "Yuel",
+      "jpname": "ユエル",
+      "id": "3040210000",
+      "element": "Wind"
+    },
+    {
+      "name": "Yuel",
+      "jpname": "ユエル",
+      "id": "3040580000",
+      "element": "Fire"
+    },
+    {
+      "name": "Yuel",
+      "jpname": "ユエル",
+      "id": "3030223000",
+      "element": "Water"
+    }
+  ],
+  "永遠の親愛 ユエル＆ソシエ": [
+    {
+      "name": "Yuel and Societte",
+      "jpname": "永遠の親愛 ユエル＆ソシエ",
+      "id": "3040430000",
+      "element": "Dark"
+    }
+  ],
+  "ユイシス": [
+    {
+      "name": "Yuisis",
+      "jpname": "ユイシス",
+      "id": "3040105000",
+      "element": "Wind"
+    },
+    {
+      "name": "Yuisis",
+      "jpname": "ユイシス",
+      "id": "3040253000",
+      "element": "Fire"
+    },
+    {
+      "name": "Yuisis",
+      "jpname": "ユイシス",
+      "id": "3030245000",
+      "element": "Wind"
+    }
+  ],
+  "虎杖悠仁＆伏黒 恵": [
+    {
+      "name": "Yuji Itadori and Megumi Fushiguro",
+      "jpname": "虎杖悠仁＆伏黒 恵",
+      "id": "3040476000",
+      "element": "Dark"
+    }
+  ],
+  "ユニ": [
+    {
+      "name": "Yuni",
+      "jpname": "ユニ",
+      "id": "3040390000",
+      "element": "Light"
+    },
+    {
+      "name": "Yuni",
+      "jpname": "ユニ",
+      "id": "3040495000",
+      "element": "Dark"
+    }
+  ],
+  "ユリウス": [
+    {
+      "name": "Yurius",
+      "jpname": "ユリウス",
+      "id": "3040199000",
+      "element": "Wind"
+    },
+    {
+      "name": "Yurius",
+      "jpname": "ユリウス",
+      "id": "3040473000",
+      "element": "Light"
+    }
+  ],
+  "ザルハメリナ": [
+    {
+      "name": "Zahlhamelina",
+      "jpname": "ザルハメリナ",
+      "id": "3040075000",
+      "element": "Fire"
+    },
+    {
+      "name": "Zahlhamelina",
+      "jpname": "ザルハメリナ",
+      "id": "3040349000",
+      "element": "Light"
+    }
+  ],
+  "ゼヘク": [
+    {
+      "name": "Zehek",
+      "jpname": "ゼヘク",
+      "id": "3040316000",
+      "element": "Dark"
+    },
+    {
+      "name": "Zehek",
+      "jpname": "ゼヘク",
+      "id": "3030060000",
+      "element": "Dark"
+    },
+    {
+      "name": "Zehek",
+      "jpname": "ゼヘク",
+      "id": "3020017000",
+      "element": "Dark"
+    }
+  ],
+  "ゼタ": [
+    {
+      "name": "Zeta",
+      "jpname": "ゼタ",
+      "id": "3040028000",
+      "element": "Fire"
+    },
+    {
+      "name": "Zeta",
+      "jpname": "ゼタ",
+      "id": "3040056000",
+      "element": "Light"
+    },
+    {
+      "name": "Zeta",
+      "jpname": "ゼタ",
+      "id": "3040112000",
+      "element": "Dark"
+    },
+    {
+      "name": "Zeta",
+      "jpname": "ゼタ",
+      "id": "3040323000",
+      "element": "Water"
+    },
+    {
+      "name": "Zeta",
+      "jpname": "ゼタ",
+      "id": "3040499000",
+      "element": "Fire"
+    },
+    {
+      "name": "Zeta",
+      "jpname": "ゼタ",
+      "id": "3040628000",
+      "element": "Dark"
+    },
+    {
+      "name": "Zeta",
+      "jpname": "ゼタ",
+      "id": "3030231000",
+      "element": "Light"
+    }
+  ],
+  "真紅と冥闇 ゼタ＆バザラガ": [
+    {
+      "name": "Zeta and Vaseraga",
+      "jpname": "真紅と冥闇 ゼタ＆バザラガ",
+      "id": "3040239000",
+      "element": "Earth"
+    }
+  ],
+  "ゾーイ": [
+    {
+      "name": "Zooey",
+      "jpname": "ゾーイ",
+      "id": "3040078000",
+      "element": "Light"
+    },
+    {
+      "name": "Zooey",
+      "jpname": "ゾーイ",
+      "id": "3040092000",
+      "element": "Dark"
+    },
+    {
+      "name": "Zooey",
+      "jpname": "ゾーイ",
+      "id": "3040150000",
+      "element": "Light"
+    },
+    {
+      "name": "Zooey",
+      "jpname": "ゾーイ",
+      "id": "3040564000",
+      "element": "Light"
+    },
+    {
+      "name": "Zooey",
+      "jpname": "ゾーイ",
+      "id": "3030233000",
+      "element": "Fire"
+    }
+  ],
+  "ゾロ＆サンジ": [
+    {
+      "name": "Zoro and Sanji",
+      "jpname": "ゾロ＆サンジ",
+      "id": "3040417000",
+      "element": "Dark"
+    }
+  ],
+  "星空 凛＆小泉花陽＆西木野真姫": [
+    {
+      "name": "μ's First-Years",
+      "jpname": "星空 凛＆小泉花陽＆西木野真姫",
+      "id": "3040229000",
+      "element": "Wind"
+    }
+  ],
+  "園田海未＆高坂穂乃果＆南ことり": [
+    {
+      "name": "μ's Second-Years",
+      "jpname": "園田海未＆高坂穂乃果＆南ことり",
+      "id": "3040230000",
+      "element": "Light"
+    }
+  ],
+  "絢瀬絵里＆矢澤にこ＆東條 希": [
+    {
+      "name": "μ's Third-Years",
+      "jpname": "絢瀬絵里＆矢澤にこ＆東條 希",
+      "id": "3040231000",
+      "element": "Dark"
+    }
+  ],
+  "十時愛梨": [
+    {
+      "name": "Airi Totoki",
+      "jpname": "十時愛梨",
+      "id": "3030121000",
+      "element": "Earth"
+    }
+  ],
+  "アレク": [
+    {
+      "name": "Alec",
+      "jpname": "アレク",
+      "id": "3030003000",
+      "element": "Fire"
+    }
+  ],
+  "アルメイダ": [
+    {
+      "name": "Almeida",
+      "jpname": "アルメイダ",
+      "id": "3030139000",
+      "element": "Earth"
+    },
+    {
+      "name": "Almeida",
+      "jpname": "アルメイダ",
+      "id": "3030250000",
+      "element": "Earth"
+    }
+  ],
+  "アナスタシア": [
+    {
+      "name": "Anastasia",
+      "jpname": "アナスタシア",
+      "id": "3030160000",
+      "element": "Water"
+    }
+  ],
+  "双葉杏": [
+    {
+      "name": "Anzu Futaba",
+      "jpname": "双葉杏",
+      "id": "3030071000",
+      "element": "Earth"
+    }
+  ],
+  "アリサ": [
+    {
+      "name": "Arisa",
+      "jpname": "アリサ",
+      "id": "3030179000",
+      "element": "Wind"
+    }
+  ],
+  "ひよこ班 アーサー&モルドレッド": [
+    {
+      "name": "Arthur and Mordred",
+      "jpname": "ひよこ班 アーサー&モルドレッド",
+      "id": "3030255000",
+      "element": "Wind"
+    }
+  ],
+  "アルシャ": [
+    {
+      "name": "Arusha",
+      "jpname": "アルシャ",
+      "id": "3030036000",
+      "element": "Light"
+    }
+  ],
+  "アステール": [
+    {
+      "name": "Aster",
+      "jpname": "アステール",
+      "id": "3030044000",
+      "element": "Wind"
+    },
+    {
+      "name": "Aster",
+      "jpname": "アステール",
+      "id": "3030268000",
+      "element": "Fire"
+    }
+  ],
+  "アウフスタ": [
+    {
+      "name": "Augusta",
+      "jpname": "アウフスタ",
+      "id": "3030143000",
+      "element": "Earth"
+    }
+  ],
+  "バロワ": [
+    {
+      "name": "Barawa",
+      "jpname": "バロワ",
+      "id": "3030154000",
+      "element": "Fire"
+    },
+    {
+      "name": "Barawa",
+      "jpname": "バロワ",
+      "id": "3030239000",
+      "element": "Light"
+    },
+    {
+      "name": "Barawa",
+      "jpname": "バロワ",
+      "id": "3020034000",
+      "element": "Fire"
+    }
+  ],
+  "炎獄先生エルモート": [
+    {
+      "name": "Blazing Teacher Elmott",
+      "jpname": "炎獄先生エルモート",
+      "id": "3030203000",
+      "element": "Fire"
+    }
+  ],
+  "ノーブルナイツ ブリジール＆コーデリア": [
+    {
+      "name": "Bridgette and Cordelia",
+      "jpname": "ノーブルナイツ ブリジール＆コーデリア",
+      "id": "3030269000",
+      "element": "Light"
+    }
+  ],
+  "カイラナ": [
+    {
+      "name": "Cailana",
+      "jpname": "カイラナ",
+      "id": "3030251000",
+      "element": "Water"
+    },
+    {
+      "name": "Cailana",
+      "jpname": "カイラナ",
+      "id": "3020062000",
+      "element": "Water"
+    }
+  ],
+  "クムユ": [
+    {
+      "name": "Camieux",
+      "jpname": "クムユ",
+      "id": "3030152000",
+      "element": "Water"
+    },
+    {
+      "name": "Camieux",
+      "jpname": "クムユ",
+      "id": "3020032000",
+      "element": "Fire"
+    },
+    {
+      "name": "Camieux",
+      "jpname": "クムユ",
+      "id": "3020047000",
+      "element": "Earth"
+    }
+  ],
+  "カレン": [
+    {
+      "name": "Carren",
+      "jpname": "カレン",
+      "id": "3030046000",
+      "element": "Fire"
+    },
+    {
+      "name": "Carren",
+      "jpname": "カレン",
+      "id": "3030200000",
+      "element": "Fire"
+    }
+  ],
+  "セシール": [
+    {
+      "name": "Cecile",
+      "jpname": "セシール",
+      "id": "3030146000",
+      "element": "Fire"
+    }
+  ],
+  "セイラン": [
+    {
+      "name": "Ceylan",
+      "jpname": "セイラン",
+      "id": "3030074000",
+      "element": "Light"
+    }
+  ],
+  "春麗": [
+    {
+      "name": "Chun-Li",
+      "jpname": "春麗",
+      "id": "3030105000",
+      "element": "Water"
+    }
+  ],
+  "クラウディア": [
+    {
+      "name": "Claudia",
+      "jpname": "クラウディア",
+      "id": "3030057000",
+      "element": "Earth"
+    }
+  ],
+  "ダエッタ": [
+    {
+      "name": "Daetta",
+      "jpname": "ダエッタ",
+      "id": "3030116000",
+      "element": "Light"
+    },
+    {
+      "name": "Daetta",
+      "jpname": "ダエッタ",
+      "id": "3020024000",
+      "element": "Light"
+    }
+  ],
+  "ドロシー": [
+    {
+      "name": "Dorothy",
+      "jpname": "ドロシー",
+      "id": "3030058000",
+      "element": "Fire"
+    }
+  ],
+  "エジェリー": [
+    {
+      "name": "Ejaeli",
+      "jpname": "エジェリー",
+      "id": "3030061000",
+      "element": "Water"
+    }
+  ],
+  "エリーゼ・ルタス": [
+    {
+      "name": "Elize Lutus",
+      "jpname": "エリーゼ・ルタス",
+      "id": "3030138000",
+      "element": "Dark"
+    }
+  ],
+  "エルタ": [
+    {
+      "name": "Elta",
+      "jpname": "エルタ",
+      "id": "3030025000",
+      "element": "Wind"
+    },
+    {
+      "name": "Elta",
+      "jpname": "エルタ",
+      "id": "3030244000",
+      "element": "Light"
+    }
+  ],
+  "エリカ・フォンティーヌ": [
+    {
+      "name": "Erica Fontaine",
+      "jpname": "エリカ・フォンティーヌ",
+      "id": "3030131000",
+      "element": "Light"
+    }
+  ],
+  "エシオ": [
+    {
+      "name": "Eso",
+      "jpname": "エシオ",
+      "id": "3030128000",
+      "element": "Wind"
+    },
+    {
+      "name": "Eso",
+      "jpname": "エシオ",
+      "id": "3020002000",
+      "element": "Wind"
+    }
+  ],
+  "エゼクレイン": [
+    {
+      "name": "Ezecrain",
+      "jpname": "エゼクレイン",
+      "id": "3030027000",
+      "element": "Fire"
+    },
+    {
+      "name": "Ezecrain",
+      "jpname": "エゼクレイン",
+      "id": "3030210000",
+      "element": "Light"
+    }
+  ],
+  "ファラ": [
+    {
+      "name": "Farrah",
+      "jpname": "ファラ",
+      "id": "3030037000",
+      "element": "Earth"
+    },
+    {
+      "name": "Farrah",
+      "jpname": "ファラ",
+      "id": "3030103000",
+      "element": "Wind"
+    },
+    {
+      "name": "Farrah",
+      "jpname": "ファラ",
+      "id": "3030248000",
+      "element": "Water"
+    },
+    {
+      "name": "Farrah",
+      "jpname": "ファラ",
+      "id": "3020006000",
+      "element": "Earth"
+    }
+  ],
+  "フライデー": [
+    {
+      "name": "Friday",
+      "jpname": "フライデー",
+      "id": "3030271000",
+      "element": "Fire"
+    }
+  ],
+  "ガラドア": [
+    {
+      "name": "Galadar",
+      "jpname": "ガラドア",
+      "id": "3030094000",
+      "element": "Earth"
+    },
+    {
+      "name": "Galadar",
+      "jpname": "ガラドア",
+      "id": "3020004000",
+      "element": "Earth"
+    }
+  ],
+  "ガイーヌ": [
+    {
+      "name": "Gayne",
+      "jpname": "ガイーヌ",
+      "id": "3030009000",
+      "element": "Earth"
+    }
+  ],
+  "ジェミニ・サンライズ": [
+    {
+      "name": "Gemini Sunrise",
+      "jpname": "ジェミニ・サンライズ",
+      "id": "3030132000",
+      "element": "Fire"
+    }
+  ],
+  "覇王丸": [
+    {
+      "name": "Haohmaru",
+      "jpname": "覇王丸",
+      "id": "3030173000",
+      "element": "Wind"
+    }
+  ],
+  "ヘイゼン": [
+    {
+      "name": "Hazen",
+      "jpname": "ヘイゼン",
+      "id": "3030066000",
+      "element": "Wind"
+    },
+    {
+      "name": "Hazen",
+      "jpname": "ヘイゼン",
+      "id": "3020009000",
+      "element": "Wind"
+    }
+  ],
+  "ヘルナル": [
+    {
+      "name": "Helnar",
+      "jpname": "ヘルナル",
+      "id": "3030004000",
+      "element": "Wind"
+    },
+    {
+      "name": "Helnar",
+      "jpname": "ヘルナル",
+      "id": "3030031000",
+      "element": "Wind"
+    }
+  ],
+  "和泉守兼定": [
+    {
+      "name": "Izuminokami Kanesada",
+      "jpname": "和泉守兼定",
+      "id": "3030205000",
+      "element": "Fire"
+    }
+  ],
+  "Ｊ・Ｊ": [
+    {
+      "name": "J.J.",
+      "jpname": "Ｊ・Ｊ",
+      "id": "3030075000",
+      "element": "Light"
+    },
+    {
+      "name": "J.J.",
+      "jpname": "Ｊ・Ｊ",
+      "id": "3030149000",
+      "element": "Earth"
+    }
+  ],
+  "ヨハン": [
+    {
+      "name": "Johann",
+      "jpname": "ヨハン",
+      "id": "3030050000",
+      "element": "Light"
+    },
+    {
+      "name": "Johann",
+      "jpname": "ヨハン",
+      "id": "3030140000",
+      "element": "Light"
+    }
+  ],
+  "三村かな子": [
+    {
+      "name": "Kanako Mimura",
+      "jpname": "三村かな子",
+      "id": "3030089000",
+      "element": "Earth"
+    }
+  ],
+  "桜庭薫": [
+    {
+      "name": "Kaoru Sakuraba",
+      "jpname": "桜庭薫",
+      "id": "3030098000",
+      "element": "Water"
+    }
+  ],
+  "神月かりん": [
+    {
+      "name": "Karin",
+      "jpname": "神月かりん",
+      "id": "3030125000",
+      "element": "Fire"
+    }
+  ],
+  "カルテイラ": [
+    {
+      "name": "Karteira",
+      "jpname": "カルテイラ",
+      "id": "3030222000",
+      "element": "Wind"
+    },
+    {
+      "name": "Karteira",
+      "jpname": "カルテイラ",
+      "id": "3020043000",
+      "element": "Wind"
+    }
+  ],
+  "カルバ": [
+    {
+      "name": "Karva",
+      "jpname": "カルバ",
+      "id": "3030230000",
+      "element": "Fire"
+    },
+    {
+      "name": "Karva",
+      "jpname": "カルバ",
+      "id": "3020036000",
+      "element": "Fire"
+    }
+  ],
+  "キハール": [
+    {
+      "name": "Keehar",
+      "jpname": "キハール",
+      "id": "3030024000",
+      "element": "Wind"
+    }
+  ],
+  "白坂小梅": [
+    {
+      "name": "Koume Shirasaka",
+      "jpname": "白坂小梅",
+      "id": "3030090000",
+      "element": "Dark"
+    }
+  ],
+  "クルーニ": [
+    {
+      "name": "Krugne",
+      "jpname": "クルーニ",
+      "id": "3030278000",
+      "element": "Wind"
+    },
+    {
+      "name": "Krugne",
+      "jpname": "クルーニ",
+      "id": "3020035000",
+      "element": "Wind"
+    }
+  ],
+  "コワフュール": [
+    {
+      "name": "La Coiffe",
+      "jpname": "コワフュール",
+      "id": "3030275000",
+      "element": "Earth"
+    },
+    {
+      "name": "La Coiffe",
+      "jpname": "コワフュール",
+      "id": "3020058000",
+      "element": "Earth"
+    }
+  ],
+  "リナ＝インバース": [
+    {
+      "name": "Lina",
+      "jpname": "リナ＝インバース",
+      "id": "3030114000",
+      "element": "Fire"
+    }
+  ],
+  "ルドミリア": [
+    {
+      "name": "Ludmila",
+      "jpname": "ルドミリア",
+      "id": "3030185000",
+      "element": "Dark"
+    }
+  ],
+  "ルナ": [
+    {
+      "name": "Luna",
+      "jpname": "ルナ",
+      "id": "3030180000",
+      "element": "Dark"
+    }
+  ],
+  "ベス": [
+    {
+      "name": "Malinda",
+      "jpname": "ベス",
+      "id": "3030093000",
+      "element": "Any"
+    }
+  ],
+  "マライア": [
+    {
+      "name": "Mariah",
+      "jpname": "マライア",
+      "id": "3030045000",
+      "element": "Earth"
+    }
+  ],
+  "城ヶ崎美嘉": [
+    {
+      "name": "Mika Jougasaki",
+      "jpname": "城ヶ崎美嘉",
+      "id": "3030051000",
+      "element": "Dark"
+    }
+  ],
+  "ミカサ": [
+    {
+      "name": "Mikasa",
+      "jpname": "ミカサ",
+      "id": "3030227000",
+      "element": "Wind"
+    }
+  ],
+  "前川みく": [
+    {
+      "name": "Miku Maekawa",
+      "jpname": "前川みく",
+      "id": "3030070000",
+      "element": "Wind"
+    }
+  ],
+  "ミラ＝マクスウェル": [
+    {
+      "name": "Milla Maxwell",
+      "jpname": "ミラ＝マクスウェル",
+      "id": "3030080000",
+      "element": "Fire"
+    }
+  ],
+  "ミラオル": [
+    {
+      "name": "Milleore",
+      "jpname": "ミラオル",
+      "id": "3030064000",
+      "element": "Water"
+    }
+  ],
+  "ミムルメモル＆パンプキン": [
+    {
+      "name": "Mimlemel and Pun-Kin",
+      "jpname": "ミムルメモル＆パンプキン",
+      "id": "3030220000",
+      "element": "Earth"
+    }
+  ],
+  "ミムルメモル＆切り株": [
+    {
+      "name": "Mimlemel and Stumpeye",
+      "jpname": "ミムルメモル＆切り株",
+      "id": "3030166000",
+      "element": "Wind"
+    }
+  ],
+  "マイム": [
+    {
+      "name": "Mina",
+      "jpname": "マイム",
+      "id": "3030176000",
+      "element": "Water"
+    }
+  ],
+  "新田美波": [
+    {
+      "name": "Minami Nitta",
+      "jpname": "新田美波",
+      "id": "3030193000",
+      "element": "Water"
+    }
+  ],
+  "本田未央": [
+    {
+      "name": "Mio Honda",
+      "jpname": "本田未央",
+      "id": "3030052000",
+      "element": "Fire"
+    }
+  ],
+  "赤城みりあ": [
+    {
+      "name": "Miria Akagi",
+      "jpname": "赤城みりあ",
+      "id": "3030161000",
+      "element": "Fire"
+    }
+  ],
+  "川島瑞樹": [
+    {
+      "name": "Mizuki Kawashima",
+      "jpname": "川島瑞樹",
+      "id": "3030069000",
+      "element": "Water"
+    }
+  ],
+  "モルフェとヴェトル": [
+    {
+      "name": "Morphe and Phoebe",
+      "jpname": "モルフェとヴェトル",
+      "id": "3030135000",
+      "element": "Water"
+    }
+  ],
+  "白蛇のナーガ": [
+    {
+      "name": "Naga",
+      "jpname": "白蛇のナーガ",
+      "id": "3030115000",
+      "element": "Water"
+    }
+  ],
+  "ナコルル": [
+    {
+      "name": "Nakoruru",
+      "jpname": "ナコルル",
+      "id": "3030174000",
+      "element": "Light"
+    }
+  ],
+  "オーウェン": [
+    {
+      "name": "Owen",
+      "jpname": "オーウェン",
+      "id": "3030207000",
+      "element": "Water"
+    }
+  ],
+  "パメラ": [
+    {
+      "name": "Pamela",
+      "jpname": "パメラ",
+      "id": "3030145000",
+      "element": "Water"
+    }
+  ],
+  "フィラソピラ": [
+    {
+      "name": "Philosophia",
+      "jpname": "フィラソピラ",
+      "id": "3030270000",
+      "element": "Light"
+    },
+    {
+      "name": "Philosophia",
+      "jpname": "フィラソピラ",
+      "id": "3020039000",
+      "element": "Light"
+    }
+  ],
+  "神崎蘭子": [
+    {
+      "name": "Ranko Kanzaki",
+      "jpname": "神崎蘭子",
+      "id": "3030162000",
+      "element": "Dark"
+    }
+  ],
+  "ラシード": [
+    {
+      "name": "Rashid",
+      "jpname": "ラシード",
+      "id": "3030126000",
+      "element": "Wind"
+    }
+  ],
+  "レッドラック": [
+    {
+      "name": "Redluck",
+      "jpname": "レッドラック",
+      "id": "3030122000",
+      "element": "Earth"
+    }
+  ],
+  "城ヶ崎莉嘉": [
+    {
+      "name": "Rika Jougasaki",
+      "jpname": "城ヶ崎莉嘉",
+      "id": "3030088000",
+      "element": "Fire"
+    }
+  ],
+  "渋谷凛": [
+    {
+      "name": "Rin Shibuya",
+      "jpname": "渋谷凛",
+      "id": "3030041000",
+      "element": "Water"
+    }
+  ],
+  "リタ": [
+    {
+      "name": "Rita",
+      "jpname": "リタ",
+      "id": "3030054000",
+      "element": "Dark"
+    }
+  ],
+  "ロジーヌ": [
+    {
+      "name": "Rosine",
+      "jpname": "ロジーヌ",
+      "id": "3030256000",
+      "element": "Fire"
+    },
+    {
+      "name": "Rosine",
+      "jpname": "ロジーヌ",
+      "id": "3020057000",
+      "element": "Fire"
+    }
+  ],
+  "ライアン": [
+    {
+      "name": "Ryan",
+      "jpname": "ライアン",
+      "id": "3030119000",
+      "element": "Fire"
+    },
+    {
+      "name": "Ryan",
+      "jpname": "ライアン",
+      "id": "3020000000",
+      "element": "Fire"
+    }
+  ],
+  "リュウ": [
+    {
+      "name": "Ryu",
+      "jpname": "リュウ",
+      "id": "3030104000",
+      "element": "Wind"
+    }
+  ],
+  "輿水幸子": [
+    {
+      "name": "Sachiko Koshimizu",
+      "jpname": "輿水幸子",
+      "id": "3030120000",
+      "element": "Light"
+    }
+  ],
+  "ザーリリャオー": [
+    {
+      "name": "Sahli Lao",
+      "jpname": "ザーリリャオー",
+      "id": "3030076000",
+      "element": "Water"
+    }
+  ],
+  "真宮寺さくら": [
+    {
+      "name": "Sakura Shinguji",
+      "jpname": "真宮寺さくら",
+      "id": "3030130000",
+      "element": "Wind"
+    }
+  ],
+  "サーヤ": [
+    {
+      "name": "Sarya",
+      "jpname": "サーヤ",
+      "id": "3030063000",
+      "element": "Fire"
+    },
+    {
+      "name": "Sarya",
+      "jpname": "サーヤ",
+      "id": "3030209000",
+      "element": "Light"
+    }
+  ],
+  "シャオ": [
+    {
+      "name": "Shao",
+      "jpname": "シャオ",
+      "id": "3030124000",
+      "element": "Dark"
+    }
+  ],
+  "一ノ瀬志希": [
+    {
+      "name": "Shiki Ichinose",
+      "jpname": "一ノ瀬志希",
+      "id": "3030194000",
+      "element": "Wind"
+    }
+  ],
+  "シグ": [
+    {
+      "name": "Sig",
+      "jpname": "シグ",
+      "id": "3030028000",
+      "element": "Water"
+    },
+    {
+      "name": "Sig",
+      "jpname": "シグ",
+      "id": "3030106000",
+      "element": "Water"
+    }
+  ],
+  "スカル": [
+    {
+      "name": "Skull",
+      "jpname": "スカル",
+      "id": "3030112000",
+      "element": "Earth"
+    },
+    {
+      "name": "Skull",
+      "jpname": "スカル",
+      "id": "3030263000",
+      "element": "Dark"
+    }
+  ],
+  "ソフィ": [
+    {
+      "name": "Sophie",
+      "jpname": "ソフィ",
+      "id": "3030082000",
+      "element": "Light"
+    }
+  ],
+  "スタン・エルロン": [
+    {
+      "name": "Stahn Aileron",
+      "jpname": "スタン・エルロン",
+      "id": "3030136000",
+      "element": "Fire"
+    }
+  ],
+  "スタン": [
+    {
+      "name": "Stan",
+      "jpname": "スタン",
+      "id": "3030129000",
+      "element": "Dark"
+    },
+    {
+      "name": "Stan",
+      "jpname": "スタン",
+      "id": "3020019000",
+      "element": "Wind"
+    }
+  ],
+  "スフラマール": [
+    {
+      "name": "Suframare",
+      "jpname": "スフラマール",
+      "id": "3030091000",
+      "element": "Water"
+    },
+    {
+      "name": "Suframare",
+      "jpname": "スフラマール",
+      "id": "3020029000",
+      "element": "Water"
+    }
+  ],
+  "スィール": [
+    {
+      "name": "Syr",
+      "jpname": "スィール",
+      "id": "3030067000",
+      "element": "Wind"
+    }
+  ],
+  "ティア・グランツ": [
+    {
+      "name": "Tear Grants",
+      "jpname": "ティア・グランツ",
+      "id": "3030137000",
+      "element": "Light"
+    }
+  ],
+  "天道輝": [
+    {
+      "name": "Teru Tendo",
+      "jpname": "天道輝",
+      "id": "3030097000",
+      "element": "Fire"
+    }
+  ],
+  "チーム・ローアイン": [
+    {
+      "name": "The Lowain Bros",
+      "jpname": "チーム・ローアイン",
+      "id": "3030252000",
+      "element": "Earth"
+    }
+  ],
+  "安室透": [
+    {
+      "name": "Tōru Amuro",
+      "jpname": "安室透",
+      "id": "3030238000",
+      "element": "Wind"
+    }
+  ],
+  "柏木翼": [
+    {
+      "name": "Tsubasa Kashiwagi",
+      "jpname": "柏木翼",
+      "id": "3030099000",
+      "element": "Wind"
+    }
+  ],
+  "タイアー": [
+    {
+      "name": "Tyre",
+      "jpname": "タイアー",
+      "id": "3030181000",
+      "element": "Wind"
+    },
+    {
+      "name": "Tyre",
+      "jpname": "タイアー",
+      "id": "3030300000",
+      "element": "Light"
+    }
+  ],
+  "ウラムヌラン": [
+    {
+      "name": "Ulamnuran",
+      "jpname": "ウラムヌラン",
+      "id": "3030014000",
+      "element": "Water"
+    }
+  ],
+  "島村卯月": [
+    {
+      "name": "Uzuki Shimamura",
+      "jpname": "島村卯月",
+      "id": "3030040000",
+      "element": "Light"
+    }
+  ],
+  "ヴァンツァ": [
+    {
+      "name": "Vanzza",
+      "jpname": "ヴァンツァ",
+      "id": "3030243000",
+      "element": "Earth"
+    },
+    {
+      "name": "Vanzza",
+      "jpname": "ヴァンツァ",
+      "id": "3020037000",
+      "element": "Earth"
+    }
+  ],
+  "ヴェリトール": [
+    {
+      "name": "Vermeil",
+      "jpname": "ヴェリトール",
+      "id": "3030183000",
+      "element": "Light"
+    },
+    {
+      "name": "Vermeil",
+      "jpname": "ヴェリトール",
+      "id": "3020054000",
+      "element": "Light"
+    }
+  ],
+  "ウェルダー": [
+    {
+      "name": "Walder",
+      "jpname": "ウェルダー",
+      "id": "3030197000",
+      "element": "Earth"
+    },
+    {
+      "name": "Walder",
+      "jpname": "ウェルダー",
+      "id": "3020013000",
+      "element": "Earth"
+    },
+    {
+      "name": "Walder",
+      "jpname": "ウェルダー",
+      "id": "3020022000",
+      "element": "Earth"
+    },
+    {
+      "name": "Walder",
+      "jpname": "ウェルダー",
+      "id": "3020028000",
+      "element": "Earth"
+    }
+  ],
+  "山姥切国広": [
+    {
+      "name": "Yamanbagiri Kunihiro",
+      "jpname": "山姥切国広",
+      "id": "3030206000",
+      "element": "Earth"
+    }
+  ],
+  "ユーリ・ローウェル": [
+    {
+      "name": "Yuri Lowell",
+      "jpname": "ユーリ・ローウェル",
+      "id": "3030081000",
+      "element": "Dark"
+    }
+  ],
+  "ザザ": [
+    {
+      "name": "Zaja",
+      "jpname": "ザザ",
+      "id": "3030059000",
+      "element": "Dark"
+    },
+    {
+      "name": "Zaja",
+      "jpname": "ザザ",
+      "id": "3030276000",
+      "element": "Earth"
+    }
+  ],
+  "アリステラ": [
+    {
+      "name": "Alistair",
+      "jpname": "アリステラ",
+      "id": "3020053000",
+      "element": "Water"
+    }
+  ],
+  "バクラ": [
+    {
+      "name": "Bakura",
+      "jpname": "バクラ",
+      "id": "3020066000",
+      "element": "Dark"
+    }
+  ],
+  "バルルガン": [
+    {
+      "name": "Balurga",
+      "jpname": "バルルガン",
+      "id": "3020055000",
+      "element": "Earth"
+    }
+  ],
+  "ブリジール": [
+    {
+      "name": "Bridgette",
+      "jpname": "ブリジール",
+      "id": "3020048000",
+      "element": "Water"
+    }
+  ],
+  "コーデリア": [
+    {
+      "name": "Cordelia",
+      "jpname": "コーデリア",
+      "id": "3020064000",
+      "element": "Light"
+    }
+  ],
+  "エルメラウラ": [
+    {
+      "name": "Elmelaura",
+      "jpname": "エルメラウラ",
+      "id": "3020025000",
+      "element": "Fire"
+    }
+  ],
+  "フレッセル": [
+    {
+      "name": "Flesselles",
+      "jpname": "フレッセル",
+      "id": "3020049000",
+      "element": "Fire"
+    }
+  ],
+  "ガルマ": [
+    {
+      "name": "Garma",
+      "jpname": "ガルマ",
+      "id": "3020027000",
+      "element": "Earth"
+    }
+  ],
+  "レオノーラ": [
+    {
+      "name": "Leonora",
+      "jpname": "レオノーラ",
+      "id": "3020026000",
+      "element": "Wind"
+    }
+  ],
+  "ネネ": [
+    {
+      "name": "Nene",
+      "jpname": "ネネ",
+      "id": "3020051000",
+      "element": "Earth"
+    }
+  ],
+  "ノルセル": [
+    {
+      "name": "Norcel",
+      "jpname": "ノルセル",
+      "id": "3020033000",
+      "element": "Earth"
+    }
+  ],
+  "パヴィーダ": [
+    {
+      "name": "Pavidus",
+      "jpname": "パヴィーダ",
+      "id": "3020045000",
+      "element": "Wind"
+    }
+  ],
+  "セロニム": [
+    {
+      "name": "Thelonim",
+      "jpname": "セロニム",
+      "id": "3020056000",
+      "element": "Wind"
+    }
+  ],
+  "エアロバイス": [
+    {
+      "name": "Viceroy",
+      "jpname": "エアロバイス",
+      "id": "3020046000",
+      "element": "Fire"
+    }
+  ],
+  "猫": [
+    {
+      "name": "Young Cat",
+      "jpname": "猫",
+      "id": "3020072000",
+      "element": "Any"
+    }
+  ]
+}

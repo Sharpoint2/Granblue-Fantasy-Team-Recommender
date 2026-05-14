@@ -1,0 +1,71 @@
+#!/usr/bin/env python3
+"""
+Browser Helper for copying full tracker URLs
+
+Since browsers truncate URLs in the address bar, use one of these methods:
+"""
+
+print("""
+╔══════════════════════════════════════════════════════════════════╗
+║           How to Copy FULL Tracker URL from Browser              ║
+╚══════════════════════════════════════════════════════════════════╝
+
+METHOD 1: Developer Console (Recommended)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Go to https://gbf.wiki/Collection_Tracker
+2. Set up your collection (mark characters as owned)
+3. Press F12 to open Developer Tools
+4. Click the "Console" tab
+5. Paste this code and press Enter:
+   
+   copy(location.href)
+   
+6. The full URL is now copied to your clipboard!
+7. Create a file named 'tracker_url.txt' and paste it there
+8. Run: python3 planner.py
+
+
+METHOD 2: Address Bar Selection
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Click the address bar
+2. Press Ctrl+A (or Cmd+A on Mac) to select ALL text
+3. Press Ctrl+C to copy
+4. Paste into tracker_url.txt
+5. Check that the URL ends with many random characters, not "..."
+
+
+METHOD 3: Bookmarklet
+━━━━━━━━━━━━━━━━━━━━━━
+1. Create a new bookmark with this URL:
+   
+   javascript:(function(){copy(location.href);alert('URL copied! Length: '+location.href.length);})()
+   
+2. Name it "Copy Full Tracker URL"
+3. Click the bookmark after setting up your tracker
+4. Paste into tracker_url.txt
+
+
+METHOD 4: Page Source
+━━━━━━━━━━━━━━━━━━━━━
+1. Press Ctrl+U to view page source
+2. Search for "y1t1" or "location.hash"
+3. Find the full URL there
+
+
+VERIFYING THE URL
+━━━━━━━━━━━━━━━━━━
+Your full URL should be:
+• ~365 characters total
+• Hash portion ~324 characters after the dot
+• Should NOT end with "..."
+
+Example of COMPLETE URL:
+https://gbf.wiki/Collection_Tracker#y1t1.QZAkQRAAAIIkCAAAAAAgCYIkAZIAAIIgAIA...
+[324 more characters]...AIIA
+
+Example of TRUNCATED URL:
+https://gbf.wiki/Collection_Tracker#y1t1.QZAkQRAAAIIkCAAAAA...
+
+Run this to check your saved URL:
+  python3 check_tracker.py
+""")

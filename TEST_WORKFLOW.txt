@@ -1,0 +1,47 @@
+GBF Planner - Test Workflow
+============================
+
+1. DECODER TEST
+---------------
+python3 decoder.py
+
+Expected: Successfully fetches ~1405 characters from tracker page
+
+2. TRACKER ANALYSIS
+-------------------
+python3 show_missing.py
+
+Expected: Shows 208 owned characters, 16 bits beyond current list
+
+3. TEAM DATABASE
+----------------
+python3 team_database.py list
+
+Expected: Shows 5 sample teams
+
+python3 team_database.py show 0
+
+Expected: Shows detailed info for Water GW Burst team
+
+4. FULL PLANNER
+---------------
+echo "" | python3 planner.py
+
+Expected: 
+- Loads 208 owned characters
+- Loads 5 teams from database
+- Shows recommended teams based on roster
+
+5. ADD NEW TEAM
+---------------
+python3 team_database.py add
+
+Follow prompts to add a custom team.
+
+6. CHECK SPECIFIC CHARACTER
+---------------------------
+python3 team_database.py find Zeta
+
+Expected: Lists teams containing Zeta
+
+All systems operational!
